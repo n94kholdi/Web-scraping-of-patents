@@ -1,0 +1,2280 @@
+ID              Name                                     Data                 Title                    
+------------------------------------------------------------------------------------------------------------------------------------------------------
+11087260        Clearwater, et al.                       August 10, 2021      Data processing systems and methods for customizing privacy training
+
+4536866         Jerome, et al.                           August 20, 1985      Information retrieval system and apparatus
+
+5193162         Bordsen, et al.                          March 9, 1993        Cache memory with data compaction for use in the audit trail of a data processing system having record locking capabilities
+
+5276735         Boebert, et al.                          January 4, 1994      Data enclave and trusted path system
+
+5329447         Leedom, Jr.                              July 12, 1994        High integrity computer implemented docketing system
+
+5404299         Tsurubayashi, et al.                     April 4, 1995        Electronic dictionary system
+
+5535393         Reeve, et al.                            July 9, 1996         System for parallel processing that compiles a filed sequence of instructions within an iteration space
+
+5560005         Hoover, et al.                           September 24, 1996   Methods and systems for object-based relational distributed databases
+
+5668986         Nilsen, et al.                           September 16, 1997   Method and apparatus for handling data storage requests in a distributed data base environment
+
+5761529         Raji, et al.                             June 2, 1998         Method for storing and retreiving files by generating an array having plurality of sub-arrays each of which include a digit of file identification numbers
+
+5764906         Edelstein, et al.                        June 9, 1998         Universal electronic resource denotation, request and delivery system
+
+5913214         Madnick, et al.                          June 15, 1999        Data extraction from world wide web pages
+
+6016394         Walker                                   January 18, 2000     Method and system for database application software creation requiring minimal programming
+
+6122627         Carey, et al.                            September 19, 2000   System, method, and program for object building in queries over object views
+
+6148342         Ho                                       November 14, 2000    Secure database management system for confidential records using separately encrypted identifier and access request
+
+6240416         Immon, et al.                            May 29, 2001         Distributed metadata system and method
+
+6253203         O'Flaherty, et al.                       June 26, 2001        Privacy-enhanced database
+
+6263335         Paik, et al.                             July 17, 2001        Information extraction system and method using concept-relation-concept (CRC) triples
+
+6272631         Thomlinson, et al.                       August 7, 2001       Protected storage of core data secrets
+
+6275824         O'Flaherty, et al.                       August 14, 2001      System and method for managing data privacy in a database management system
+
+6282548         Burner, et al.                           August 28, 2001      Automatically generate and displaying metadata as supplemental information concurrently with the web page, there being no link between web page and metadata
+
+6363488         Ginter, et al.                           March 26, 2002       Systems and methods for secure transaction management and electronic rights protection
+
+6374237         Reese                                    April 16, 2002       Data set selection based upon user profile
+
+6374252         Althoff, et al.                          April 16, 2002       Modeling of object-oriented database structures, translation to relational database structures, and dynamic searches thereon
+
+6408336         Schneider, et al.                        June 18, 2002        Distributed administration of access to information
+
+6427230         Goiffon, et al.                          July 30, 2002        System and method for defining and managing reusable groups software constructs within an object management system
+
+6442688         Moses, et al.                            August 27, 2002      Method and apparatus for obtaining status of public key certificate updates
+
+6446120         Dantressangle                            September 3, 2002    Configurable stresser for a web server
+
+6463488         San Juan                                 October 8, 2002      Apparatus and method for testing master logic units within a data processing apparatus
+
+6484180         Lyons, et al.                            November 19, 2002    Accessing domain object data stored in a relational database system
+
+6519571         Guheen, et al.                           February 11, 2003    Dynamic customer profile management
+
+6591272         Williams                                 July 8, 2003         Method and apparatus to make and transmit objects from a database on a server computer to a client computer
+
+6601233         Underwood                                July 29, 2003        Business components framework
+
+6606744         Mikurak                                  August 12, 2003      Providing collaborative installation management in a network-based supply chain environment
+
+6611812         Hurtado, et al.                          August 26, 2003      Secure electronic content distribution on CDS and DVDs
+
+6625602         Meredith, et al.                         September 23, 2003   Method and system for hierarchical transactions and compensation
+
+6662192         Rebane                                   December 9, 2003     System and method for data collection, evaluation, information generation, and presentation
+
+6662357         Bowman-Amuah                             December 9, 2003     Managing information in an integrated development architecture framework
+
+6697824         Bowman-Amuah                             February 24, 2004    Relationship management in an E-commerce application framework
+
+6725200         Rost                                     April 20, 2004       Personal data archive system
+
+6732109         Lindberg, et al.                         May 4, 2004          Method and system for transferring information between a user interface and a database over a global information network
+
+6755344         Mollett, et al.                          June 29, 2004        Systems and methods for determining an authorization threshold
+
+6757685         Raffaele, et al.                         June 29, 2004        Process for executing a downloadable service receiving restrictive access rights to at least one profile file
+
+6757888         Knutson, et al.                          June 29, 2004        Method and apparatus for manipulating data during automated data processing
+
+6816944         Peng                                     November 9, 2004     Apparatus and methods for providing coordinated and personalized application and data management for resource-limited mobile devices
+
+6826693         Yoshida, et al.                          November 30, 2004    Information transmission apparatus
+
+6886101         Glazer, et al.                           April 26, 2005       Privacy service          
+
+6901346         Tracy, et al.                            May 31, 2005         System, method and medium for certifying and accrediting requirements compliance
+
+6904417         Clayton, et al.                          June 7, 2005         Policy notice method and system
+
+6925443         Baggett, Jr., et al.                     August 2, 2005       Method, system and computer program product for assessing information security
+
+6938041         Brandow, et al.                          August 30, 2005      Java-based data access object
+
+6978270         Carty, et al.                            December 20, 2005    System and method for capturing and storing operational data concerning an internet service provider's (ISP) operational environment and customer web browsing habits
+
+6980987         Kaminer                                  December 27, 2005    Graphical user interface-relational database access system for a robotic archive
+
+6983221         Tracy, et al.                            January 3, 2006      Enhanced system, method and medium for certifying and accrediting requirements compliance utilizing robust risk assessment model
+
+6985887         Sunstein, et al.                         January 10, 2006     Apparatus and method for authenticated multi-user personal information database
+
+6990454         McIntosh                                 January 24, 2006     Automated third party verification system
+
+6993448         Tracy, et al.                            January 31, 2006     System, method and medium for certifying and accrediting requirements compliance
+
+6993495         Smith, Jr., et al.                       January 31, 2006     Dynamically assigning a survey to a respondent
+
+6996807         Vardi, et al.                            February 7, 2006     Consolidation and reduction of usage data
+
+7003560         Mullen, et al.                           February 21, 2006    Data warehouse computing system
+
+7003662         Genty, et al.                            February 21, 2006    System and method for dynamically determining CRL locations and access methods
+
+7013290         Ananian                                  March 14, 2006       Personalized interactive digital catalog profiling
+
+7017105         Flanagin, et al.                         March 21, 2006       Deleting objects from a store of a device
+
+7039594         Gersting                                 May 2, 2006          Method and system for content management assessment, planning and delivery
+
+7039654         Eder                                     May 2, 2006          Automated bot development system
+
+7047517         Brown, et al.                            May 16, 2006         System for integrating data between a plurality of software applications in a factory environment
+
+7051036         Rosnow, et al.                           May 23, 2006         Computer-implemented system and method for project development
+
+7051038         Yeh, et al.                              May 23, 2006         Method and system for a reporting information services architecture
+
+7058970         Shaw                                     June 6, 2006         On connect security scan and delivery by a network security authority
+
+7069427         Adler, et al.                            June 27, 2006        Using a rules model to improve handling of personally identifiable information
+
+7076558         Dunn                                     July 11, 2006        User-centric consent management system and method
+
+7095854         Ginter, et al.                           August 22, 2006      Systems and methods for secure transaction management and electronic rights protection
+
+7120800         Ginter, et al.                           October 10, 2006     Systems and methods for secure transaction management and electronic rights protection
+
+7124101         Mikurak                                  October 17, 2006     Asset tracking in a network-based supply chain environment
+
+7127705         Christfort, et al.                       October 24, 2006     Developing applications online
+
+7127741         Bandini, et al.                          October 24, 2006     Method and system for e-mail message transmission
+
+7133845         Ginter, et al.                           November 7, 2006     System and methods for secure transaction management and electronic rights protection
+
+7139999         Bowman-Amuah                             November 21, 2006    Development architecture framework
+
+7143091         Charnock, et al.                         November 28, 2006    Method and apparatus for sociological data mining
+
+7167842         Josephson, II, et al.                    January 23, 2007     Architecture and method for operational privacy in business services
+
+7171379         Menninger, et al.                        January 30, 2007     System, method and computer program product for normalizing data in a supply chain management framework
+
+7181438         Szabo                                    February 20, 2007    Database access system   
+
+7203929         Vinodkrishnan, et al.                    April 10, 2007       Design data validation tool for use in enterprise architecture modeling
+
+7213233         Vinodkrishnan, et al.                    May 1, 2007          Modeling standards validation tool for use in enterprise architecture modeling
+
+7216340         Vinodkrishnan, et al.                    May 8, 2007          Analysis data validation tool for use in enterprise architecture modeling with result based model updating
+
+7219066         Parks, et al.                            May 15, 2007         Skills matching application
+
+7223234         Stupp, et al.                            May 29, 2007         Apparatus for determining association variables
+
+7225460         Barzilai, et al.                         May 29, 2007         Enterprise privacy manager
+
+7234065         Breslin, et al.                          June 19, 2007        System and method for managing data privacy
+
+7247625         Zhang, et al.                            July 24, 2007        6-amino-1,4-dihydro-benzo[d][1,3] oxazin-2-ones and analogs useful as progesterone receptor modulators
+
+7251624         Lee, et al.                              July 31, 2007        Score based decisioning  
+
+7260830         Sugimoto                                 August 21, 2007      Method and apparatus for establishing a security policy, and method and apparatus for supporting establishment of security policy
+
+7266566         Kennaley, et al.                         September 4, 2007    Database management system
+
+7272818         Ishimitsu, et al.                        September 18, 2007   Creation of an object within an object hierarchy structure
+
+7275063         Horn                                     September 25, 2007   Computer system for automatic organization, indexing and viewing of information from multiple sources
+
+7281020         Fine                                     October 9, 2007      Proprietary information identification, management and protection
+
+7284232         Bates, et al.                            October 16, 2007     Automated generation of aliases based on embedded alias information
+
+7284271         Lucovsky, et al.                         October 16, 2007     Authorizing a requesting entity to operate upon data structures
+
+7287280         Young                                    October 23, 2007     Automated security management
+
+7290275         Baudoin, et al.                          October 30, 2007     Security maturity assessment method
+
+7302569         Betz, et al.                             November 27, 2007    Implementation and use of a PII data access control facility employing personally identifying information labels and purpose serving functions sets
+
+7313575         Carr, et al.                             December 25, 2007    Data services handler    
+
+7313699         Koga                                     December 25, 2007    Automatic authentication method and system in print process
+
+7313825         Redlich, et al.                          December 25, 2007    Data security system and method for portable device
+
+7315849         Bakalash, et al.                         January 1, 2008      Enterprise-wide data-warehouse with integrated data aggregation engine
+
+7322047         Redlich, et al.                          January 22, 2008     Data security system and method associated with data mining
+
+7330850         Seibel, et al.                           February 12, 2008    Text mining system for web-based business intelligence applied to web site server logs
+
+7340447         Ghatare                                  March 4, 2008        Partitioning data access requests
+
+7340776         Zobel, et al.                            March 4, 2008        Method and system for configuring and scheduling security audits of a computer network
+
+7343434         Kapoor, et al.                           March 11, 2008       Buffer management within SLS (simple load store) apertures for inter-endpoint communication in advanced switching fabric
+
+7353204         Liu                                      April 1, 2008        Certified transmission system
+
+7356559         Jacobs, et al.                           April 8, 2008        Integrated platform for developing and maintaining a distributed multiapplication online presence
+
+7367014         Griffin                                  April 29, 2008       System and method for XML data representation of portlets
+
+7370025         Pandit                                   May 6, 2008          System and method for providing access to replicated data
+
+7376835         Olkin, et al.                            May 20, 2008         Implementing nonrepudiation and audit using authentication assertions and key servers
+
+7380120         Garcia                                   May 27, 2008         Secured data format for access control
+
+7383570         Pinkas, et al.                           June 3, 2008         Secure authentication systems and methods
+
+7391854         Salonen, et al.                          June 24, 2008        Method, system and computer program product for online charging in a communications network
+
+7398393         Mont, et al.                             July 8, 2008         Privacy management of personal data
+
+7401235         Mowers, et al.                           July 15, 2008        Persistent authorization context based on external authentication
+
+7403942         Bayliss                                  July 22, 2008        Method and system for processing data records
+
+7409354         Putnam, et al.                           August 5, 2008       Method and apparatus for operative event documentation and related data management
+
+7412402         Cooper                                   August 12, 2008      Performance motivation systems and methods for contact centers
+
+7424680         Carpenter                                September 9, 2008    Set top box object security system
+
+7430585         Sibert                                   September 30, 2008   Secure processing unit systems and methods
+
+7454457         Lowery, et al.                           November 18, 2008    Method and apparatus for dynamic data flow control using prioritization of data requests
+
+7454508         Mathew, et al.                           November 18, 2008    Consent mechanism for online entities
+
+7478157         Bohrer, et al.                           January 13, 2009     System, method, and business methods for enforcing privacy preferences on personal-data exchanges across a network
+
+7480755         Herrell, et al.                          January 20, 2009     Trap mode register       
+
+7487170         Stevens                                  February 3, 2009     Location information for avoiding unwanted communications systems and methods
+
+7493282         Manly, et al.                            February 17, 2009    System and method for automated account management
+
+7512987         Williams                                 March 31, 2009       Adaptive digital rights management system for plural device domains
+
+7516882         Cucinotta                                April 14, 2009       Remote validation system useful for financial transactions
+
+7523053         Pudhukottai, et al.                      April 21, 2009       Internal audit operations for Sarbanes Oxley compliance
+
+7529836         Bolen                                    May 5, 2009          Technique for throttling data access requests
+
+7548968         Bura, et al.                             June 16, 2009        Policing internet domains
+
+7552480         Voss                                     June 23, 2009        Method and system of assessing risk using a one-dimensional risk assessment model
+
+7562339         Racca, et al.                            July 14, 2009        System architecture for business process development and execution with introspection and generic components
+
+7567541         Karimi, et al.                           July 28, 2009        System and method for personal data backup for mobile customer premises equipment
+
+7584505         Mondri, et al.                           September 1, 2009    Inspected secure communication protocol
+
+7587749         Leser, et al.                            September 8, 2009    Computer method and apparatus for managing data objects in a distributed context
+
+7590705         Mathew, et al.                           September 15, 2009   Profile and consent accrual
+
+7590972         Axelrod, et al.                          September 15, 2009   Role-oriented development environment
+
+7603356         Schran, et al.                           October 13, 2009     System and method for network administration and local administration of privacy protection criteria
+
+7606783         Carter                                   October 20, 2009     Health, safety and security analysis at a client location
+
+7606790         Levy                                     October 20, 2009     Integrating and enhancing searching of media content and biometric databases
+
+7607120         Sanyal, et al.                           October 20, 2009     Method and apparatus for creating data transformation routines for binary data
+
+7613700         Lobo, et al.                             November 3, 2009     System and method for electronic submission, procurement, and access to highly varied material property data
+
+7617167         Griffis, et al.                          November 10, 2009    Machine vision system for enterprise management
+
+7620644         Cote, et al.                             November 17, 2009    Reentrant database object wizard
+
+7630874         Fables, et al.                           December 8, 2009     Data visualization methods for simulation modeling of agent behavioral expression
+
+7630998         Zhou, et al.                             December 8, 2009     Performing a deletion of a node in a tree data storage structure
+
+7636742         Olavarrieta, et al.                      December 22, 2009    Automated data retrieval 
+
+7640322         Wendkos, et al.                          December 29, 2009    Systems and methods for producing, managing, delivering, retrieving, and/or tracking permission based communications
+
+7650497         Thornton, et al.                         January 19, 2010     Automated digital certificate renewer
+
+7653592         Flaxman, et al.                          January 26, 2010     System and method for processing a loan
+
+7657476         Barney                                   February 2, 2010     Method and system for valuing intangible assets
+
+7657694         Mansell, et al.                          February 2, 2010     Handling access requests in a data processing apparatus
+
+7665073         Meijer, et al.                           February 16, 2010    Compile time meta-object protocol systems and methods
+
+7665125         Heard, et al.                            February 16, 2010    System and method for distribution of security policies for mobile devices
+
+7668947         Hutchinson, et al.                       February 23, 2010    Methods and systems for managing assets
+
+7673282         Amaru, et al.                            March 2, 2010        Enterprise information unification
+
+7681034         Lee, et al.                              March 16, 2010       Method and apparatus for securing electronic data
+
+7685561         Deem, et al.                             March 23, 2010       Storage API for a common data platform
+
+7685577         Pace, et al.                             March 23, 2010       System and method for translating an asset for distribution over multi-tiered networks
+
+7693593         Ishibashi, et al.                        April 6, 2010        Production planning method and production planning system
+
+7707224         Chastagnol, et al.                       April 27, 2010       Blocking of unlicensed audio content in video files on a video hosting website
+
+7712029         Ferreira, et al.                         May 4, 2010          Removing personal information when a save option is and is not available
+
+7716242         Pae, et al.                              May 11, 2010         Method and apparatus for controlling access to personally identifiable information
+
+7725474         Tamai, et al.                            May 25, 2010         Apparatus and method for information processing in network system
+
+7725875         Waldrep                                  May 25, 2010         Automated world wide web navigation and content extraction
+
+7729940         Harvey, et al.                           June 1, 2010         Analyzing return on investment of advertising campaigns by matching multiple data sources
+
+7730142         LeVasseur, et al.                        June 1, 2010         Electronic mail system with functionality to include both private and public messages in a communication
+
+7752124         Green, et al.                            July 6, 2010         System and method for automated loan compliance assessment
+
+7756826         Bots, et al.                             July 13, 2010        Method and systems for efficient delivery of previously stored content
+
+7756987         Wang, et al.                             July 13, 2010        Cybersquatter patrol     
+
+7774745         Fildebrandt, et al.                      August 10, 2010      Mapping of designtime to runtime in a visual modeling language environment
+
+7788212         Beckmann, et al.                         August 31, 2010      System and method for personalization implemented on multiple networks and multiple interfaces
+
+7788222         Shah, et al.                             August 31, 2010      Information exchange engine providing a critical infrastructure layer and methods of use thereof
+
+7788632         Kuester, et al.                          August 31, 2010      Methods and systems for evaluating the compliance of software to a quality benchmark
+
+7788726         Teixeira                                 August 31, 2010      System and methodology providing information lockbox
+
+7801758         Gracie, et al.                           September 21, 2010   System and method for conducting an optimized customer identification program
+
+7822620         Dixon, et al.                            October 26, 2010     Determining website reputations using automatic testing
+
+7827523         Ahmed, et al.                            November 2, 2010     Query serving infrastructure providing flexible and expandable support and compiling instructions
+
+7844640         Bender, et al.                           November 30, 2010    Data mapping visualization
+
+7849143         Vuong                                    December 7, 2010     System and method of dynamic management of spam
+
+7853468         Callahan, et al.                         December 14, 2010    System and methods for integrated compliance monitoring
+
+7853470         Sonnleithner, et al.                     December 14, 2010    Assigning tangible assets to workplaces
+
+7853925         Kemmler                                  December 14, 2010    System and method for managing hierarchical software development
+
+7870540         Zare, et al.                             January 11, 2011     Dynamic object validation
+
+7870608         Shraim, et al.                           January 11, 2011     Early detection and monitoring of online fraud
+
+7873541         Klar, et al.                             January 18, 2011     System and method for aggregating advertising pricing data
+
+7877327         Gwiazda, et al.                          January 25, 2011     Apparatus and method for creating and using documents in a distributed computing network
+
+7877812         Koved, et al.                            January 25, 2011     Method, system and computer program product for enforcing privacy policies
+
+7885841         King                                     February 8, 2011     Audit planning           
+
+7895260         Archer, et al.                           February 22, 2011    Processing data access requests among a plurality of compute nodes
+
+7904487         Ghatare                                  March 8, 2011        Translating data access requests
+
+7917888         Chong, et al.                            March 29, 2011       System and method for building multi-modal and multi-channel applications
+
+7917963         Goyal, et al.                            March 29, 2011       System for providing mobile data security
+
+7921152         Ashley, et al.                           April 5, 2011        Method and system for providing user control over receipt of cookies from e-commerce applications
+
+7930197         Ozzie, et al.                            April 19, 2011       Personal data mining     
+
+7930753         Mellinger, et al.                        April 19, 2011       Methods and systems for performing security risk assessments of internet merchant entities
+
+7953725         Burris, et al.                           May 31, 2011         Method, system, and storage medium for providing web information processing services
+
+7954150         Croft, et al.                            May 31, 2011         Methods and systems for assigning access control levels in providing access to resources via virtual machines
+
+7958087         Blumenau                                 June 7, 2011         Systems and methods for cross-system digital asset tag propagation
+
+7958494         Chaar, et al.                            June 7, 2011         Rapid on-boarding of a software factory
+
+7962900         Barraclough, et al.                      June 14, 2011        Converting program code with access coordination for a shared memory
+
+7966310         Sullivan, et al.                         June 21, 2011        Method, system, and software for correcting uniform resource locators
+
+7966599         Malasky, et al.                          June 21, 2011        Runtime library including a virtual file system
+
+7966663         Strickland, et al.                       June 21, 2011        Methods and systems for determining privacy requirements for an information resource
+
+7975000         Dixon, et al.                            July 5, 2011         A/B testing of a webpage 
+
+7991559         Dzekunov, et al.                         August 2, 2011       Computerized electroporation
+
+7996372         Rubel, Jr.                               August 9, 2011       Automated response to solicited and unsolicited communications and automated collection and management of data extracted therefrom
+
+8010612         Costea, et al.                           August 30, 2011      Secure transactional communication
+
+8010720         Iwaoka, et al.                           August 30, 2011      Storage system disposed with plural integrated circuits
+
+8019881         Sandhu, et al.                           September 13, 2011   Secure cookies           
+
+8020206         Hubbard, et al.                          September 13, 2011   System and method of analyzing web content
+
+8024384         Prabhakar, et al.                        September 20, 2011   Techniques for crawling dynamic web content
+
+8032721         Murai                                    October 4, 2011      Access control apparatus and access control method
+
+8037409         Jacob, et al.                            October 11, 2011     Method for learning portal content model enhancements
+
+8041913         Wang                                     October 18, 2011     Data protection method   
+
+8069161         Bugir, et al.                            November 29, 2011    System, program product, and methods to enhance content management
+
+8069471         Boren                                    November 29, 2011    Internet security dynamics assessment system, program product, and related methods
+
+8082539         Schelkogonov, et al.                     December 20, 2011    System and method for managing web-based forms and dynamic content of website
+
+8095923         Harvey, et al.                           January 10, 2012     System and method for deploying and managing intelligent nodes in a distributed network
+
+8099709         Baikov, et al.                           January 17, 2012     Method and system for generating and employing a dynamic web services interface model
+
+8103962         Embley, et al.                           January 24, 2012     Form-based ontology creation and information harvesting
+
+8117441         Kurien, et al.                           February 14, 2012    Integrating security protection tools with computer device integrity and privacy policy
+
+8146054         Baker, et al.                            March 27, 2012       Hybrid data object model 
+
+8146074         Ito, et al.                              March 27, 2012       Computer-readable recording medium containing application management program, and method and apparatus for application management
+
+8150717         Whitmore                                 April 3, 2012        Automated risk assessments using a contextual data model that correlates physical and logical assets
+
+8156105         Altounian, et al.                        April 10, 2012       Rapid item data entry for physical items in the control of a user in an item data management server
+
+8156158         Rolls, et al.                            April 10, 2012       Method and system for use of a database of personal data records
+
+8166406         Goldfeder, et al.                        April 24, 2012       Internet privacy user interface
+
+8176061         Swanbeck, et al.                         May 8, 2012          Tracking digital assets on a distributed network
+
+8176177         Sussman, et al.                          May 8, 2012          Methods and systems for reducing burst usage of a networked computer system
+
+8176334         Vainstein                                May 8, 2012          Document security system that permits external users to gain access to secured files
+
+8176470         Klumpp, et al.                           May 8, 2012          Collaborative derivation of an interface and partial implementation of programming code
+
+8180759         Hamzy                                    May 15, 2012         Spell checking URLs in a resource
+
+8185409         Putnam, et al.                           May 22, 2012         Method and apparatus for operative event documentation and related data management
+
+8196176         Berteau, et al.                          June 5, 2012         System and method for identifying a cookie as a privacy threat
+
+8205140         Hafeez, et al.                           June 19, 2012        Method and apparatus for the use of network coding in a wireless communication network
+
+8214803         Horii, et al.                            July 3, 2012         Program testing method and testing device
+
+8234377         Cohn                                     July 31, 2012        Dynamically migrating computer networks
+
+8239244         Ginsberg, et al.                         August 7, 2012       System and method for transaction log cleansing and aggregation
+
+8250051         Bugir, et al.                            August 21, 2012      System, program product, and methods to enhance media content management
+
+8255468         Vitaldevara, et al.                      August 28, 2012      Email management based on user behavior
+
+8266231         Golovin, et al.                          September 11, 2012   Systems and methods for monitoring messaging systems
+
+8275632         Awaraji, et al.                          September 25, 2012   Privacy compliant consent and data access management system and methods
+
+8275793         Ahmad, et al.                            September 25, 2012   Transaction transforms   
+
+8286239         Sutton                                   October 9, 2012      Identifying and managing web risks
+
+8312549         Goldberg, et al.                         November 13, 2012    Practical threat analysis
+
+8316237         Felsher, et al.                          November 20, 2012    System and method for secure three-party communications
+
+8332908         Hatakeyama, et al.                       December 11, 2012    Sharing management system, sharing management method and program
+
+8341405         Meijer, et al.                           December 25, 2012    Access management in an off-premise environment
+
+8346929         Lai                                      January 1, 2013      System and method for generating secure Web service architectures  using a Web Services security assessment methodology
+
+8364713         Pollard                                  January 29, 2013     Personal data manager systems and methods
+
+8370794         Moosmann, et al.                         February 5, 2013     Software model process component
+
+8380630         Felsher                                  February 19, 2013    Information record infrastructure, system and method
+
+8380743         Convertino, et al.                       February 19, 2013    System and method for supporting targeted sharing and early curation of information
+
+8381180         Rostoker                                 February 19, 2013    Visually exposing data services to analysts
+
+8392982         Harris, et al.                           March 5, 2013        Systems and methods for selective authentication, authorization, and auditing in connection with traffic management
+
+8418226         Gardner                                  April 9, 2013        Persistent servicing agent
+
+8423954         Ronen, et al.                            April 16, 2013       Interactive container of development components and solutions
+
+8429179         Mirhaji                                  April 23, 2013       Method and system for ontology driven data collection and processing
+
+8429597         Prigge                                   April 23, 2013       Software for integrated modeling of user interfaces with applications
+
+8429630         Nickolov, et al.                         April 23, 2013       Globally distributed utility computing cloud
+
+8429758         Chen, et al.                             April 23, 2013       System and method for privacy protection using identifiability risk assessment
+
+8438644         Watters, et al.                          May 7, 2013          Information system security based on threat vectors
+
+8463247         Misiag                                   June 11, 2013        Location-based dynamic hyperlinking methods and systems
+
+8468244         Redlich, et al.                          June 18, 2013        Digital information infrastructure and method for security designated data and with granular data stores
+
+8473324         Alvarez, et al.                          June 25, 2013        Assessment of risk associated with international cross border data movement
+
+8474012         Ahmed, et al.                            June 25, 2013        Progressive consent      
+
+8494894         Jaster, et al.                           July 23, 2013        Universal customer based information and ontology platform for business information and innovation management
+
+8504481         Motahari, et al.                         August 6, 2013       System and method for protecting user privacy using social inference protection techniques
+
+8510199         Erlanger                                 August 13, 2013      Method and apparatus for financial product risk determination
+
+8516076         Thomas                                   August 20, 2013      System and method for compiling statistics in an IP marketplace
+
+8533746         Nolan, et al.                            September 10, 2013   Health integration platform API
+
+8539359         Rapaport, et al.                         September 17, 2013   Social network driven indexing system for instantly clustering people with concurrent focus on same topic into on-topic chat rooms and/or for generating on-topic search results tailored to user preferences regarding topic
+
+8539437         Finlayson, et al.                        September 17, 2013   Security process model for tasks within a software factory
+
+8560645         Linden, et al.                           October 15, 2013     Location-aware configuration
+
+8560956         Curtis, et al.                           October 15, 2013     Processing model of an application wiki
+
+8561153         Grason, et al.                           October 15, 2013     Web-based collaborative framework
+
+8565729         Moseler, et al.                          October 22, 2013     Devices and methods for data transfer during charging of a portable device
+
+8566938         Prakash, et al.                          October 22, 2013     System and method for electronic message analysis for phishing detection
+
+8571909         Miller, et al.                           October 29, 2013     Business intelligence system and method utilizing multidimensional analysis of a plurality of transformed and scaled data streams
+
+8578036         Holfelder, et al.                        November 5, 2013     Providing standardized transparency for cookies and other website data using a server side description file
+
+8578166         De Monseignat, et al.                    November 5, 2013     System and method for authentication, data transfer, and protection against phishing
+
+8578481         Rowley                                   November 5, 2013     Method and system for determining a probability of entry of a counterfeit domain in a browser
+
+8578501         Ogilvie                                  November 5, 2013     Anonymous social networking with community-based privacy reviews obtained by members
+
+8583694         Siegel, et al.                           November 12, 2013    Health-care related database middleware
+
+8583766         Dixon, et al.                            November 12, 2013    A/B testing              
+
+8589183         Awaraji, et al.                          November 19, 2013    Privacy compliant consent and data access management system and methods
+
+8601467         Hofhansl, et al.                         December 3, 2013     Methods and systems for upgrading and installing application packages to an application platform
+
+8601591         Krishnamurthy, et al.                    December 3, 2013     Method and apparatus for providing web privacy
+
+8606746         Yeap, et al.                             December 10, 2013    Privacy management policy hub
+
+8612420         Sun, et al.                              December 17, 2013    Configuring web crawler to extract web page information
+
+8612993         Grant, et al.                            December 17, 2013    Identity persistence via executable scripts
+
+8615731         Doshi                                    December 24, 2013    System and method for automating the development of web services that incorporate business rules
+
+8620952         Bennett, et al.                          December 31, 2013    System for database reporting
+
+8621637         Al-Harbi, et al.                         December 31, 2013    Systems, program product and methods for performing a risk assessment workflow process for plant networks and systems
+
+8626671         Federgreen                               January 7, 2014      System and method for automated data breach compliance
+
+8627114         Resch, et al.                            January 7, 2014      Authenticating a data access request to a dispersed storage network
+
+8630961         Beilby, et al.                           January 14, 2014     Chatbots                 
+
+8640110         Kopp, et al.                             January 28, 2014     Business object service simulation
+
+8646072         Savant                                   February 4, 2014     Detecting misuse of trusted seals
+
+8650399         Le Bihan, et al.                         February 11, 2014    Memory device and chip set processor pairing
+
+8656456         Maxson, et al.                           February 18, 2014    Privacy preferences management system
+
+8661036         Turski, et al.                           February 25, 2014    Metadata editing control 
+
+8667074         Farkas                                   March 4, 2014        Systems and methods for email tracking and email spam reduction using dynamic email addressing schemes
+
+8667487         Boodman, et al.                          March 4, 2014        Web browser extensions   
+
+8677472         Dotan, et al.                            March 18, 2014       Multi-point collection of behavioral data relating to a virtualized browsing session with a secure server
+
+8681984         Lee, et al.                              March 25, 2014       Context-aware based RFID privacy control system and personal privacy protection method using the same
+
+8682698         Cashman, et al.                          March 25, 2014       System and method for secure self registration with an insurance portal
+
+8683502         Shkedi, et al.                           March 25, 2014       Targeted television advertising based on profiles linked to multiple online devices
+
+8688601         Jaiswal                                  April 1, 2014        Systems and methods for generating machine learning-based classifiers for detecting specific categories of sensitive information
+
+8689292         Williams, et al.                         April 1, 2014        Method and systems for dynamically providing communities of interest on an end user workstation
+
+8693689         Belenkiy, et al.                         April 8, 2014        Location brokering for providing security, privacy and services
+
+8700524         Williams, et al.                         April 15, 2014       Systems and methods to restrict payment transactions
+
+8700699         Shen, et al.                             April 15, 2014       Using a proxy server for a mobile browser
+
+8706742         Ravid, et al.                            April 22, 2014       System for enhancing expert-based computerized analysis of a set of digital documents and methods useful in conjunction therewith
+
+8707451         Ture, et al.                             April 22, 2014       Search hit URL modification for secure application integration
+
+8712813         King                                     April 29, 2014       Audit planning           
+
+8713098         Adya, et al.                             April 29, 2014       Method and system for migrating object update messages through synchronous data propagation
+
+8713638         Hu, et al.                               April 29, 2014       Managing personal information on a network
+
+8719366         Mathew, et al.                           May 6, 2014          Profile and consent accrual
+
+8732839         Hohl                                     May 20, 2014         Automatically protecting computer systems from attacks that exploit security vulnerabilities
+
+8744894         Christiansen, et al.                     June 3, 2014         Method and system for assessing, managing, and monitoring information technology risk
+
+8751285         Deb, et al.                              June 10, 2014        System and method for calculating a risk to an entity
+
+8763071         Sinha, et al.                            June 24, 2014        Systems and methods for mobile application security classification and enforcement
+
+8763082         Huber, et al.                            June 24, 2014        Interactive client management of an access control list
+
+8767947         Ristock, et al.                          July 1, 2014         System and method for testing and deploying rules
+
+8769242         Tkac, et al.                             July 1, 2014         Translation map simplification
+
+8769671         Shraim, et al.                           July 1, 2014         Online fraud solution    
+
+8788935         Hirsch, et al.                           July 22, 2014        Systems and methods for creating or updating an application using website content
+
+8793614         Wilson, et al.                           July 29, 2014        History-based tracking of user preference settings
+
+8793650         Hilerio, et al.                          July 29, 2014        Dynamic web application notifications including task bar overlays
+
+8793781         Grossi, et al.                           July 29, 2014        Method and system for analyzing policies for compliance with a specified policy using a policy template
+
+8793809         Falkenburg, et al.                       July 29, 2014        Unified tracking data management
+
+8799984         Ahn                                      August 5, 2014       User agent to exercise privacy control management in a user-centric identity management system
+
+8805707         Schumann, Jr., et al.                    August 12, 2014      Systems and methods for providing a safety score associated with a user location
+
+8805806         Amarendran, et al.                       August 12, 2014      Automated, tiered data retention
+
+8805925         Price, et al.                            August 12, 2014      Method and apparatus for maintaining high data integrity and for providing a secure audit for fraud prevention and detection
+
+8812342         Barcelo, et al.                          August 19, 2014      Managing and monitoring continuous improvement in detection of compliance violations
+
+8812752         Shih, et al.                             August 19, 2014      Connector interface for data pipeline
+
+8812766         Kranendonk, et al.                       August 19, 2014      File mapping and converting for dynamic disk personalization for multiple platforms
+
+8819253         Simeloff, et al.                         August 26, 2014      Network message generation for automated authentication
+
+8819617         Koenig, et al.                           August 26, 2014      System and method for providing access to data in a plurality of software development systems
+
+8826446         Liu, et al.                              September 2, 2014    System and method for applying privacy settings to a plurality of applications
+
+8832649         Bishop, et al.                           September 9, 2014    Systems and methods for augmenting the functionality of a monitoring node without recompiling
+
+8832854         Staddon, et al.                          September 9, 2014    System and method for privacy setting differentiation detection
+
+8839232         Taylor, et al.                           September 16, 2014   Customer relationship management portal system and method
+
+8843487         McGraw, et al.                           September 23, 2014   Process and method for data assurance management by applying data assurance metrics
+
+8856534         Khosravi, et al.                         October 7, 2014      Method and apparatus for secure scan of data storage device from remote server
+
+8862507         Sandhu, et al.                           October 14, 2014     System and method for conducting web-based financial transactions in capital markets
+
+8875232         Blom, et al.                             October 28, 2014     User authentication      
+
+8893078         Schaude, et al.                          November 18, 2014    Simplified business object model for a user interface
+
+8893286         Oliver                                   November 18, 2014    Systems and methods for preventing fraudulent activity associated with typo-squatting procedures
+
+8893297         Eversoll, et al.                         November 18, 2014    Personal data management system with sharing revocation
+
+8904494         Kindler, et al.                          December 2, 2014     System and method to facilitate compliance with COPPA for website registration
+
+8914263         Shimada, et al.                          December 16, 2014    Information processing apparatus, information processing method and computer readable medium for assessment of event influence
+
+8914299         Pesci-Anderson, et al.                   December 16, 2014    System and method for compliance and operations management
+
+8914342         Kalaboukis, et al.                       December 16, 2014    Personal data platform   
+
+8914902         Moritz, et al.                           December 16, 2014    Method for user privacy protection
+
+8918306         Cashman, et al.                          December 23, 2014    System and method for providing dynamic insurance portal transaction authentication and authorization
+
+8918392         Brooker, et al.                          December 23, 2014    Data storage mapping and management
+
+8918632         Sartor                                   December 23, 2014    Methods for analyzing application privacy and devices thereof
+
+8930896         Wiggins                                  January 6, 2015      Data anonymity and separation for user computation
+
+8930897         Nassar                                   January 6, 2015      Data integration tool    
+
+8935198         Phillips, et al.                         January 13, 2015     Analysis and prediction of data using clusterization
+
+8935266         Wu                                       January 13, 2015     Investigative identity data search algorithm
+
+8935342         Patel                                    January 13, 2015     Method for detecting and unsubscribing an address from a series of subscriptions
+
+8935804         Clark, et al.                            January 13, 2015     Rules-based data access systems and methods
+
+8938221         Brazier, et al.                          January 20, 2015     System and method for providing a callback cloud
+
+8943076         Stewart, et al.                          January 27, 2015     System to automate mapping of variables between business process applications and method therefor
+
+8943548         Drokov, et al.                           January 27, 2015     System and method for dynamic multifactor authentication
+
+8949137         Crapo, et al.                            February 3, 2015     Managing patient consent in a master patient index
+
+8955038         Nicodemus, et al.                        February 10, 2015    Methods and systems for controlling access to computing resources based on known security vulnerabilities
+
+8959568         Hudis, et al.                            February 17, 2015    Enterprise security assessment sharing
+
+8959584         Piliouras                                February 17, 2015    Systems and methods for universal enhanced log-in, identity document verification and dedicated survey participation
+
+8966575         McQuay, et al.                           February 24, 2015    Methods, software, and devices for automatically scoring privacy protection measures
+
+8966597         Saylor, et al.                           February 24, 2015    Electronic signatures    
+
+8973108         Roth, et al.                             March 3, 2015        Use of metadata for computing resource access
+
+8977234         Chava                                    March 10, 2015       Using low-cost tags to facilitate mobile transactions
+
+8977643         Schindlauer, et al.                      March 10, 2015       Dynamic asset monitoring and management using a continuous event processing platform
+
+8978158         Rajkumar, et al.                         March 10, 2015       Privacy management across multiple devices
+
+8983972         Kriebel, et al.                          March 17, 2015       Collection and reporting of customer survey data
+
+8984031         Todd                                     March 17, 2015       Managing data storage for databases based on application awareness
+
+8990933         Magdalin                                 March 24, 2015       Securing networks against spear phishing attacks
+
+8996417         Channakeshava                            March 31, 2015       Method and system for automatically obtaining and categorizing cash transaction data using a mobile computing system
+
+8996480         Agarwala, et al.                         March 31, 2015       Method and apparatus for optimizing data storage
+
+8997213         Papakipos, et al.                        March 31, 2015       Protecting personal information upon sharing a personal computing device
+
+9003295         Baschy                                   April 7, 2015        User interface driven access control system and method
+
+9003552         Goodwin, et al.                          April 7, 2015        Online privacy management
+
+9009851         Droste, et al.                           April 14, 2015       Virtual machine for processing medical data
+
+9021469         Hilerio, et al.                          April 28, 2015       Web application pinning including task bar pinning
+
+9026526         Bau, et al.                              May 5, 2015          Providing images of named resources in response to a search query
+
+9030987         Bianchetti, et al.                       May 12, 2015         Systems and methods for transmission of uninterrupted radio, television programs and additional data services through wireless networks
+
+9032067         Prasad, et al.                           May 12, 2015         Determining differences in an event-driven application accessed in different client-tier environments
+
+9043217         Cashman, et al.                          May 26, 2015         Medical kiosk and method of use
+
+9043480         Barton, et al.                           May 26, 2015         Policy-based application management
+
+9047463         Porras                                   June 2, 2015         Method and system for protecting data flow at a mobile device
+
+9047582         Hutchinson, et al.                       June 2, 2015         Methods and systems for managing enterprise assets
+
+9049314         Pugh, et al.                             June 2, 2015         Dynamically and customizably managing data in compliance with privacy and security standards
+
+9055071         Gates, et al.                            June 9, 2015         Automated false statement alerts
+
+9058590         Criddle, et al.                          June 16, 2015        Content upload safety tool
+
+9064033         Jin, et al.                              June 23, 2015        Intelligent decision support for consent management
+
+9069940         Hars                                     June 30, 2015        Secure host authentication using symmetric key cryptography
+
+9076231         Hill, et al.                             July 7, 2015         Techniques for displaying content on a display to reduce screenshot quality
+
+9077736         Werth, et al.                            July 7, 2015         Systems and methods for providing a client agent for delivery of remote services
+
+9081952         Sagi, et al.                             July 14, 2015        Systems and methods for providing secure electronic document storage, retrieval and use with electronic user identity verification
+
+9092796         Eversoll, et al.                         July 28, 2015        Personal data management system with global data store
+
+9094434         Williams, et al.                         July 28, 2015        System and method for automated policy audit and remediation management
+
+9098515         Richter, et al.                          August 4, 2015       Data destruction mechanisms
+
+9100778         Stogaitis, et al.                        August 4, 2015       Determining a WiFi scan location
+
+9106691         Burger, et al.                           August 11, 2015      Systems and methods of identity protection and management
+
+9111105         Barton, et al.                           August 18, 2015      Policy-based application management
+
+9111295         Tietzen, et al.                          August 18, 2015      Program, system and method for linking community programs and merchants in a marketing program
+
+9123339         Shaw, et al.                             September 1, 2015    Speech recognition using repeated utterances
+
+9129311         Schoen, et al.                           September 8, 2015    Social networking system data exchange
+
+9135261         Maunder, et al.                          September 15, 2015   Systems and methods for facilitating data discovery
+
+9135444         Carter, et al.                           September 15, 2015   Trusted platform module (TPM) assisted data center management
+
+9141823         Dawson                                   September 22, 2015   Abstraction layer for default encryption with orthogonal encryption logic session object; and automated authentication, with a method for online litigation
+
+9152820         Pauley, Jr., et al.                      October 6, 2015      Method and apparatus for cookie anonymization and rejection
+
+9154514         Prakash                                  October 6, 2015      Systems and methods for electronic message analysis
+
+9154556         Dotan, et al.                            October 6, 2015      Managing access to a limited number of computerized sessions
+
+9158655         Wadhwani, et al.                         October 13, 2015     Computer development assessment system
+
+9170996         Lovric, et al.                           October 27, 2015     Content interchange bus  
+
+9172706         Krishnamurthy, et al.                    October 27, 2015     Tailored protection of personally identifiable information
+
+9177293         Gagnon, et al.                           November 3, 2015     Spam filtering system and method
+
+9178901         Xue, et al.                              November 3, 2015     Malicious uniform resource locator detection
+
+9183100         Gventer, et al.                          November 10, 2015    Systems for identifying customer personal information on electronic devices
+
+9189642         Perlman                                  November 17, 2015    Safe processing of on-demand delete requests
+
+9201572         Lyon, et al.                             December 1, 2015     A/B test configuration environment
+
+9201770         Duerk                                    December 1, 2015     A/B testing of installed graphical user interfaces
+
+9202085         Mawdsley, et al.                         December 1, 2015     Private information storage system
+
+9215076         Roth, et al.                             December 15, 2015    Key generation for hierarchical data access
+
+9215252         Smith, et al.                            December 15, 2015    Methods and apparatus to identify privacy relevant correlations between data values
+
+9224009         Liu, et al.                              December 29, 2015    System and method for applying privacy settings to a plurality of applications
+
+9230036         Davis                                    January 5, 2016      Enhanced browser cookie management
+
+9231935         Bridge, et al.                           January 5, 2016      Background auto-submit of login credentials
+
+9232040         Barash, et al.                           January 5, 2016      Community-based response system
+
+9235476         McHugh, et al.                           January 12, 2016     System and method for logical deletion of stored data objects
+
+9240987         Barrett-Bowen, et al.                    January 19, 2016     Separate privacy setting control of multiple communication clients of a user
+
+9241259         Daniela, et al.                          January 19, 2016     Method and apparatus for managing the transfer of sensitive information to mobile devices
+
+9245126         Christodorescu, et al.                   January 26, 2016     Protection of user data in hosted application environments
+
+9253609         Hosier, Jr.                              February 2, 2016     Online systems and methods for advancing information organization sharing and collective action
+
+9264443         Weisman                                  February 16, 2016    Browser based method of assessing web application vulnerability
+
+9280581         Grimes, et al.                           March 8, 2016        Method and system for determination of data completeness for analytic data calculations
+
+9286282         Ling, III, et al.                        March 15, 2016       Obtaining data from abandoned electronic forms
+
+9288118         Pattan                                   March 15, 2016       Setting cookies across applications
+
+9288556         Kim, et al.                              March 15, 2016       Method and apparatus for measuring body balance of wearable device
+
+9317697         Maier, et al.                            April 19, 2016       Processing of restricted access data
+
+9317715         Schuette, et al.                         April 19, 2016       Data protection compliant deletion of personally identifiable information
+
+9336324         Lomme, et al.                            May 10, 2016         Intelligent caching for security trimming
+
+9336332         Davis, et al.                            May 10, 2016         Programmatic data discovery platforms for computing applications
+
+9336400         Milman, et al.                           May 10, 2016         Information asset placer 
+
+9338188         Ahn                                      May 10, 2016         User agent to exercise privacy control management in a user-centric identity management system
+
+9344297         Shah, et al.                             May 17, 2016         Systems and methods for email response prediction
+
+9344424         Tenenboym, et al.                        May 17, 2016         Authorizing access by a third party to a service from a service provider
+
+9344484         Ferris                                   May 17, 2016         Determining consistencies in staged replication data to improve data migration efficiency in cloud based networks
+
+9348802         Massand                                  May 24, 2016         System and method for synchronizing bi-directional document management
+
+9348862         Kawecki, III                             May 24, 2016         Systems and methods for enhancing user data derived from digital communications
+
+9349016         Brisebois, et al.                        May 24, 2016         System and method for user-context-based data loss prevention
+
+9350718         Sondhi, et al.                           May 24, 2016         Using representational state transfer (REST) for consent management
+
+9355157         Mohammed, et al.                         May 31, 2016         Information targeting systems and methods
+
+9356961         Todd, et al.                             May 31, 2016         Privacy scoring for cloud services
+
+9369488         Woods, et al.                            June 14, 2016        Policy enforcement using natural language processing
+
+9384199         Thereska, et al.                         July 5, 2016         Distributed file system  
+
+9384357         Patil, et al.                            July 5, 2016         Providing application privacy information
+
+9386104         Adams, et al.                            July 5, 2016         Preventing extraction of secret information over a compromised encrypted connection
+
+9396332         Abrams, et al.                           July 19, 2016        Risk assessment modeling 
+
+9401900         LeVasseur, et al.                        July 26, 2016        Secure electronic mail system with thread/conversation opt out
+
+9411967         Parecki, et al.                          August 9, 2016       Systems and methods for managing location data and providing a privacy framework
+
+9411982         Dippenaar, et al.                        August 9, 2016       Enabling transfer of digital assets
+
+9417859         Gounares, et al.                         August 16, 2016      Purity analysis using white list/black list analysis
+
+9424021         Zamir                                    August 23, 2016      Capturing updates to applications and operating systems
+
+9426177         Wang, et al.                             August 23, 2016      Method and apparatus for detecting security vulnerability for animation source file
+
+9450940         Belov, et al.                            September 20, 2016   Intelligent system for enabling automated secondary authorization for service requests in an agile information technology environment
+
+9460136         Todd, et al.                             October 4, 2016      Managing databases in data storage systems
+
+9460171         Marrelli, et al.                         October 4, 2016      Processing data in data migration
+
+9460307         Breslau, et al.                          October 4, 2016      Managing sensitive data in cloud computing environments
+
+9462009         Kolman, et al.                           October 4, 2016      Detecting risky domains  
+
+9465702         Gventer, et al.                          October 11, 2016     System and method for auditing removal of customer personal information on electronic devices
+
+9465800         Lacey                                    October 11, 2016     Systems and methods for sharing verified identity documents
+
+9473446         Vijay, et al.                            October 18, 2016     Personalized delivery time optimization
+
+9473535         Sartor                                   October 18, 2016     Methods and devices for analyzing user privacy based on a user's online presence
+
+9477523         Warman, et al.                           October 25, 2016     Scheduling data access jobs based on job priority and predicted execution time using historical execution data
+
+9477660         Scott, et al.                            October 25, 2016     Privacy compliance in data retrieval
+
+9477942         Adachi, et al.                           October 25, 2016     Collaborative data entry 
+
+9483659         Bao, et al.                              November 1, 2016     Instant personalization security
+
+9489366         Scott, et al.                            November 8, 2016     Interactive synchronization of web data and spreadsheets
+
+9501523         Hyatt, et al.                            November 22, 2016    Relationship collaboration system
+
+9507960         Bell, et al.                             November 29, 2016    Systems and methods for automated data privacy compliance
+
+9509674         Nasserbakht, et al.                      November 29, 2016    Information security and privacy system and method
+
+9509702         Grigg, et al.                            November 29, 2016    Self-selected user access based on specific authentication types
+
+9521166         Wilson                                   December 13, 2016    Systems and methods for testing online systems and content
+
+9524500         Dave, et al.                             December 20, 2016    Transferring assets      
+
+9529989         Kling, et al.                            December 27, 2016    Access requests at IAM system implementing IAM data model
+
+9536108         Powell, et al.                           January 3, 2017      Method and apparatus for generating privacy profiles
+
+9537546         Cordeiro, et al.                         January 3, 2017      Implementing MIMO in mmWave wireless communication systems
+
+9542568         Francis, et al.                          January 10, 2017     Systems and methods for enforcing third party oversight of data anonymization
+
+9549047         Fredinburg, et al.                       January 17, 2017     Initiating a client-side user model
+
+9552395         Bayer, et al.                            January 24, 2017     Methods, systems, and media for presenting recommended media content items
+
+9552470         Turgeman, et al.                         January 24, 2017     Method, device, and system of generating fraud-alerts for cyber-attacks
+
+9553918         Manion, et al.                           January 24, 2017     Stateful and stateless cookie operations servers
+
+9558497         Carvalho                                 January 31, 2017     System and method for internet domain name fraud risk assessment
+
+9569752         Deering, et al.                          February 14, 2017    Providing parameterized actionable communication messages via an electronic communication
+
+9571509         Satish, et al.                           February 14, 2017    Systems and methods for identifying variants of samples based on similarity analysis
+
+9571526         Sartor                                   February 14, 2017    Methods and devices for analyzing user privacy based on a user's online presence
+
+9571559         Raleigh, et al.                          February 14, 2017    Enhanced curfew and protection associated with a device group
+
+9571991         Brizendine, et al.                       February 14, 2017    Opt-in tracking across messaging application platforms
+
+9578173         Sanghavi, et al.                         February 21, 2017    Virtual assistant aided communication with 3.sup.rd party service in a communication session
+
+9582681         Mishra                                   February 28, 2017    Method and apparatus for privacy protection in images
+
+9584964         Pelkey                                   February 28, 2017    Enforcement of proximity based policies
+
+9589110         Carey, et al.                            March 7, 2017        Information security systems and methods
+
+9600181         Patel, et al.                            March 21, 2017       Live configurable storage
+
+9602529         Jones, et al.                            March 21, 2017       Threat modeling and analysis
+
+9606971         Seolas, et al.                           March 28, 2017       Rule-based validation of websites
+
+9607041         Himmelstein                              March 28, 2017       System and method for efficiently accessing internet resources
+
+9619652         Slater                                   April 11, 2017       System, method and computer program product for determining a risk score for an entity
+
+9619661         Finkelstein                              April 11, 2017       Personal information data manager
+
+9621357         Williams, et al.                         April 11, 2017       System and method for providing consent management
+
+9621566         Gupta, et al.                            April 11, 2017       System and method for detecting phishing webpages
+
+9626124         Lipinski, et al.                         April 18, 2017       Direct-attached/network-attached storage device
+
+9642008         Wyatt, et al.                            May 2, 2017          System and method for creating and assigning a policy for a mobile communications device based on personal data
+
+9646095         Gottlieb, et al.                         May 9, 2017          Systems and methods for generating and maintaining internet user profile data
+
+9648036         Seiver, et al.                           May 9, 2017          Systems for network risk assessment including processing of user access rights associated with a network of devices
+
+9652314         Mahiddini                                May 16, 2017         Dynamic application programming interface publication for providing web services
+
+9654506         Barrett                                  May 16, 2017         Managing and accounting for privacy settings through tiered cookie set access
+
+9654541         Kapczynski, et al.                       May 16, 2017         Aggregating user web browsing data
+
+9665722         Nagasundaram, et al.                     May 30, 2017         Privacy firewall         
+
+9665733         Sills, et al.                            May 30, 2017         Setting access controls for a content item
+
+9672053         Tang, et al.                             June 6, 2017         Service request processing
+
+9672355         Titonis, et al.                          June 6, 2017         Automated behavioral and static analysis using an instrumented sandbox and machine learning classification for mobile security
+
+9678794         Barrett, et al.                          June 13, 2017        Techniques for processing queries relating to task-completion times or cross-data-structure interactions
+
+9691090         Barday                                   June 27, 2017        Data processing systems and methods for operationalizing privacy compliance and assessing the risk of various respective privacy campaigns
+
+9704103         Suskind, et al.                          July 11, 2017        Digital companions for human users
+
+9705840         Pujare, et al.                           July 11, 2017        Automation platform for hub-based system federating disparate unified communications systems
+
+9705880         Siris                                    July 11, 2017        Systems, methods, and computer program products for data governance and licensing
+
+9721078         Cornick, et al.                          August 1, 2017       System and method for user enrollment in a secure biometric verification system
+
+9721108         Krishnamurthy, et al.                    August 1, 2017       Tailored protection of personally identifiable information
+
+9727751         Oliver, et al.                           August 8, 2017       Method and apparatus for applying privacy policies to structured data
+
+9729583         Barday                                   August 8, 2017       Data processing systems and methods for performing privacy assessments and monitoring of new versions of computer code for privacy compliance
+
+9734255         Jiang                                    August 15, 2017      Ubiquitous personalized learning evaluation network using 2D barcodes
+
+9740985         Byron, et al.                            August 22, 2017      Rating difficulty of questions
+
+9740987         Dolan                                    August 22, 2017      Generation of computer-based discovery avatars based on tokenization of prioritized source data
+
+9749408         Subramani, et al.                        August 29, 2017      Techniques for managing unsynchronized content items at unlinked devices
+
+9760620         Nachnani, et al.                         September 12, 2017   Confidently adding snippets of search results to clusters of objects
+
+9760635         Bliss, et al.                            September 12, 2017   Dynamic search engine for an industrial environment
+
+9760697         Walker                                   September 12, 2017   Secure interactive electronic vault with dynamic access controls
+
+9760849         Vinnakota, et al.                        September 12, 2017   Assessing an information security governance of an enterprise
+
+9762553         Ford, et al.                             September 12, 2017   Systems and methods of secure data exchange
+
+9767202         Darby, et al.                            September 19, 2017   Linking content files    
+
+9767309         Patel, et al.                            September 19, 2017   Access control system for implementing access restrictions of regulated database records while identifying and providing indicators of regulated database records matching validation criteria
+
+9769124         Yan                                      September 19, 2017   Method and apparatus for providing access control to shared data based on trust level
+
+9785795         Grondin, et al.                          October 10, 2017     Identifying and securing sensitive data at its source
+
+9798749         Saner                                    October 24, 2017     Multiple user profile cleaner
+
+9798826         Wilson, et al.                           October 24, 2017     History-based tracking of user preference settings
+
+9800605         Baikalov, et al.                         October 24, 2017     Risk scoring for threat assessment
+
+9800606         Yumer                                    October 24, 2017     Systems and methods for evaluating network security
+
+9804649         Cohen, et al.                            October 31, 2017     Systems and methods of remote communication
+
+9804928         Davis, et al.                            October 31, 2017     Restoring an archived file in a distributed filesystem
+
+9805381         Frank, et al.                            October 31, 2017     Crowd-based scores for food from measurements of affective response
+
+9811532         Parkison, et al.                         November 7, 2017     Executing a cloud command for a distributed filesystem
+
+9817850         Dubbels, et al.                          November 14, 2017    Auditing database access in a distributed medical computing environment
+
+9817978         Marsh, et al.                            November 14, 2017    Systems and methods for implementing modular computer system security solutions
+
+9825928         Lelcuk, et al.                           November 21, 2017    Techniques for optimizing authentication challenges for detection of malicious attacks
+
+9832633         Gerber, Jr., et al.                      November 28, 2017    System and method for location privacy and location information management over wireless systems
+
+9836598         Iyer, et al.                             December 5, 2017     User activity monitoring 
+
+9838407         Oprea, et al.                            December 5, 2017     Detection of malicious web activity in enterprise computer networks
+
+9838839         Vudali, et al.                           December 5, 2017     Repackaging media content data with anonymous identifiers
+
+9842042         Chhatwal, et al.                         December 12, 2017    Datacenter management computing system
+
+9842349         Sawczuk, et al.                          December 12, 2017    System and method for preference determination
+
+9848005         Ardeli, et al.                           December 19, 2017    Client reputation driven role-based access control
+
+9852150         Sharpe, et al.                           December 26, 2017    Avoiding client timeouts in a distributed filesystem
+
+9853959         Kapczynski, et al.                       December 26, 2017    Storage and maintenance of personal data
+
+9860226         Thormaehlen                              January 2, 2018      Sensitive information cloud service
+
+9864735         Lamprecht                                January 9, 2018      In-domain webpage editing
+
+9877138         Franklin                                 January 23, 2018     Method and system for localized data retrieval
+
+9882935         Barday                                   January 30, 2018     Data processing systems and methods for performing privacy assessments and monitoring of new versions of computer code for privacy compliance
+
+9887965         Kay, et al.                              February 6, 2018     Method and system for browser identity
+
+9892441         Barday                                   February 13, 2018    Data processing systems and methods for operationalizing privacy compliance and assessing the risk of various respective privacy campaigns
+
+9892442         Barday                                   February 13, 2018    Data processing systems and methods for efficiently assessing the risk of privacy campaigns
+
+9892443         Barday                                   February 13, 2018    Data processing systems for modifying privacy campaign data via electronic messaging systems
+
+9892444         Barday                                   February 13, 2018    Data processing systems and communication systems and methods for the efficient generation of privacy risk assessments
+
+9894076         Li, et al.                               February 13, 2018    Data protection and sharing
+
+9898613         Swerdlow, et al.                         February 20, 2018    Crowdsourcing privacy settings
+
+9898769         Barday                                   February 20, 2018    Data processing systems and methods for operationalizing privacy compliance via integrated mobile applications
+
+9912625         Mutha, et al.                            March 6, 2018        Storage and management of mail attachments
+
+9912810         Segre, et al.                            March 6, 2018        System and method for chat automation
+
+9916703         Levinson, et al.                         March 13, 2018       Calibration for autonomous vehicle operation
+
+9922124         Rathod                                   March 20, 2018       Enable user to establish request data specific connections with other users of network(s) for communication, participation and collaboration
+
+9923927         McClintock, et al.                       March 20, 2018       Methods and systems for enabling access control based on credential properties
+
+9928379         Hoffer                                   March 27, 2018       Methods using mediation software for rapid health care support over a secured wireless network; methods of composition; and computer program products therefor
+
+9934544         Whitfield, et al.                        April 3, 2018        Secure consent management system
+
+9936127         Todasco                                  April 3, 2018        Systems and methods for providing attention directing functions in an image capturing device
+
+9942244         Lahoz, et al.                            April 10, 2018       Secure service for receiving sensitive information through nested iframes
+
+9942276         Sartor                                   April 10, 2018       Generating a privacy rating for an application or website
+
+9946897         Lovin                                    April 17, 2018       Data privacy management system and method
+
+9948663         Wang, et al.                             April 17, 2018       Systems and methods for predicting security threat attacks
+
+9953189         Cook, et al.                             April 24, 2018       Managing configurations of computing terminals
+
+9959551         Schermerhorn, et al.                     May 1, 2018          Customer-level cross-channel message planner
+
+9959582         Sukman, et al.                           May 1, 2018          Intellectual property information retrieval
+
+9961070         Tang                                     May 1, 2018          Strong authentication with feeder robot in a federated identity web environment
+
+9973518         Lee, et al.                              May 15, 2018         Apparatus and method for checking message and user terminal
+
+9973585         Ruback, et al.                           May 15, 2018         Methods, apparatus and systems for providing notice of digital tracking technologies in mobile apps on mobile devices, and for recording user consent in connection with same
+
+9977904         Khan, et al.                             May 22, 2018         Systems and methods for automated detection of application vulnerabilities
+
+9983936         Dornemann, et al.                        May 29, 2018         Virtual machine change block tracking
+
+9984252         Pollard                                  May 29, 2018         Methods and systems for facilitating personal data propagation
+
+9990499         Chan, et al.                             June 5, 2018         Dynamic security testing 
+
+9992213         Sinnema                                  June 5, 2018         Risk-adaptive access control of an application action based on threat detection data
+
+10001975        Bharthulwar                              June 19, 2018        Integrated system for software application development
+
+10002064        Muske                                    June 19, 2018        Static analysis based efficient elimination of false positive
+
+10007895        Vanasco                                  June 26, 2018        System and method for indexing, correlating, managing, referencing and syndicating identities and relationships across systems
+
+10013577        Beaumont, et al.                         July 3, 2018         Data processing systems for identifying whether cookies contain personally identifying information
+
+10015164        Hamburg, et al.                          July 3, 2018         Modules to securely provision an asset to a target device
+
+10019339        von Hanxleden, et al.                    July 10, 2018        Sequentially constructive model of computation
+
+10019588        Garcia, et al.                           July 10, 2018        Systems and/or methods for enabling cooperatively-completed rules-based data analytics of potentially sensitive data
+
+10019591        Beguin                                   July 10, 2018        Low-latency media sharing
+
+10019741        Hesselink                                July 10, 2018        Methods and systems for a personal multimedia content archive
+
+10021143        Cabrera, et al.                          July 10, 2018        Method and apparatus for multi-tenancy secrets management in multiple data security jurisdiction zones
+
+10025804        Vranyes, et al.                          July 17, 2018        Systems and methods for aggregating information-asset metadata from multiple disparate data-management systems
+
+10028226        Ayyagari, et al.                         July 17, 2018        Efficient usage of internet services on mobile devices
+
+10032172        Barday                                   July 24, 2018        Data processing systems for measuring privacy maturity within an organization
+
+10044761        Ducatel, et al.                          August 7, 2018       User authentication based on user characteristic authentication rules
+
+10055426        Arasan, et al.                           August 21, 2018      System and method transforming source data into output data in big data environments
+
+10061847        Mohammed, et al.                         August 28, 2018      Information targeting systems and methods
+
+10069914        Smith                                    September 4, 2018    Distributed storage system for long term data storage
+
+10073924        Karp, et al.                             September 11, 2018   User specific visual identity control across multiple platforms
+
+10075451        Hall, et al.                             September 11, 2018   Methods and systems for user opt-in to data privacy agreements
+
+10091214        Godlewski, et al.                        October 2, 2018      Malware warning          
+
+10091312        Khanwalkar, et al.                       October 2, 2018      Data structures for intelligently resolving deterministic and probabilistic device identifiers to device profiles and/or groups
+
+10102533        Barday                                   October 16, 2018     Data processing and communications systems and methods for the efficient implementation of privacy by design
+
+10108409        Pirzadeh, et al.                         October 23, 2018     Systems and methods for updatable applets
+
+10122663        Hu, et al.                               November 6, 2018     Proxy email server for routing messages
+
+10122760        Terrill, et al.                          November 6, 2018     Computer network security system
+
+10127403        Kong, et al.                             November 13, 2018    Computing system with privacy control mechanism and method of operation thereof
+
+10129211        Heath                                    November 13, 2018    Methods and/or systems for an online and/or mobile privacy and/or security encryption technologies used in cloud computing with the combination of data mining and/or encryption of user's personal data and/or location data for marketing of internet posted promotions, social messaging or offers using multiple devices, browsers, operating systems, networks, fiber optic communications, multichannel platforms
+
+10140666        Wang, et al.                             November 27, 2018    System and method for targeted data gathering for tax preparation
+
+10142113        Zaidi, et al.                            November 27, 2018    Identifying and maintaining secure communications
+
+10158676        Barday                                   December 18, 2018    Data processing systems and methods for performing privacy assessments and monitoring of new versions of computer code for privacy compliance
+
+10165011        Barday                                   December 25, 2018    Data processing systems and methods for performing privacy assessments and monitoring of new versions of computer code for privacy compliance
+
+10169762        Ogawa                                    January 1, 2019      Risk analysis device, risk analysis method and program storage medium
+
+10176503        Barday, et al.                           January 8, 2019      Data processing systems and methods for efficiently assessing the risk of privacy campaigns
+
+10181043        Pauley, Jr., et al.                      January 15, 2019     Method and apparatus for cookie validation and scoring
+
+10181051        Barday, et al.                           January 15, 2019     Data processing systems for generating and populating a data inventory for processing data access requests
+
+10187363        Smirnoff, et al.                         January 22, 2019     Hybrid integration of software development kit with secure execution environment
+
+10204154        Barday, et al.                           February 12, 2019    Data processing systems for generating and populating a data inventory
+
+10212175        Seul, et al.                             February 19, 2019    Attracting and analyzing spam postings
+
+10223533        Dawson                                   March 5, 2019        Systems and methods for analysis of cross-site scripting vulnerabilities
+
+10250594        Chathoth, et al.                         April 2, 2019        Declarative techniques for transaction-specific authentication
+
+10255602        Wang                                     April 9, 2019        Location-based verification for predicting user trustworthiness
+
+10257127        Dotan-Cohen, et al.                      April 9, 2019        Email personalization    
+
+10257181        Sherif, et al.                           April 9, 2019        Methods and processes for utilizing information collected for enhanced verification
+
+10268838        Yadgiri, et al.                          April 23, 2019       Consent handling during data harvesting
+
+10275614        Barday, et al.                           April 30, 2019       Data processing systems for generating and populating a data inventory
+
+10282370        Barday, et al.                           May 7, 2019          Data processing systems for generating and populating a data inventory
+
+10284604        Barday, et al.                           May 7, 2019          Data processing and scanning systems for generating and populating a data inventory
+
+10289857        Brinskelle                               May 14, 2019         Enforcement of same origin policy for sensitive data
+
+10289866        Barday, et al.                           May 14, 2019         Data processing systems for fulfilling data subject access requests and related methods
+
+10289867        Barday, et al.                           May 14, 2019         Data processing systems for webform crawling to map processing activities and related methods
+
+10289870        Barday, et al.                           May 14, 2019         Data processing systems for fulfilling data subject access requests and related methods
+
+10304442        Rudden, et al.                           May 28, 2019         Identifying digital private information and preventing privacy violations
+
+10310723        Rathod                                   June 4, 2019         Presenting plurality types of interfaces and functions for conducting various activities
+
+10311042        Kumar                                    June 4, 2019         Organically managing primary and secondary storage of a data object based on expiry timeframe supplied by a user of the data object
+
+10311475        Yuasa                                    June 4, 2019         Digital information gathering and analyzing method and apparatus
+
+10311492        Gelfenbeyn, et al.                       June 4, 2019         Enhancing functionalities of virtual assistants and dialog systems via plugin marketplace
+
+10318761        Barday, et al.                           June 11, 2019        Data processing systems and methods for auditing data request compliance
+
+10324960        Skvortsov, et al.                        June 18, 2019        Determining a number of unique viewers of a content item
+
+10326768        VerWeyst, et al.                         June 18, 2019        Access control for enterprise knowledge
+
+10333975        Soman, et al.                            June 25, 2019        Enhanced computing system security using a secure browser
+
+10346186        Kalyanpur                                July 9, 2019         System and method for simulating internet browsing system for user without graphical user interface
+
+10346635        Kumar, et al.                            July 9, 2019         System and method for data management and task routing based on data tagging
+
+10346638        Barday, et al.                           July 9, 2019         Data processing systems for identifying and modifying processes that are subject to data subject access requests
+
+10348726        Caluwaert                                July 9, 2019         Online identity verification platform and process
+
+10353673        Barday, et al.                           July 16, 2019        Data processing systems for integration of consumer feedback with data subject access requests and related methods
+
+10361857        Woo                                      July 23, 2019        Electronic stamp system for security intensification, control method thereof, and non-transitory computer readable storage medium having computer program recorded thereon
+
+10373119        Driscoll, et al.                         August 6, 2019       Checklist generation     
+
+10373409        White, et al.                            August 6, 2019       Identification scan in compliance with jurisdictional or other rules
+
+10375115        Mallya                                   August 6, 2019       Compliance configuration management
+
+10387559        Wendt, et al.                            August 20, 2019      Template-based identification of user interest
+
+10387657        Belfiore, Jr., et al.                    August 20, 2019      Systems and methods for cybersecurity risk assessment
+
+10387952        Sandhu, et al.                           August 20, 2019      System and method for conducting web-based financial transactions in capital markets
+
+10395201        Vescio                                   August 27, 2019      Method and system for risk measurement and modeling
+
+10402545        Gorfein, et al.                          September 3, 2019    Systems and methods for managing data assets associated with peer-to-peer networks
+
+10404729        Turgeman                                 September 3, 2019    Device, method, and system of generating fraud-alerts for cyber-attacks
+
+10417401        Votaw, et al.                            September 17, 2019   Dynamic digital consent  
+
+10430608        Peri, et al.                             October 1, 2019      Systems and methods of automated compliance with data privacy laws
+
+10437412        Barday, et al.                           October 8, 2019      Consent receipt management systems and related methods
+
+10437860        Barday, et al.                           October 8, 2019      Data processing systems for generating and populating a data inventory
+
+10438016        Barday, et al.                           October 8, 2019      Data processing systems for generating and populating a data inventory
+
+10440062        Barday, et al.                           October 8, 2019      Consent receipt management systems and related methods
+
+10445508        Sher-Jan, et al.                         October 15, 2019     Systems and methods for managing multi-region data incidents
+
+10445526        Barday, et al.                           October 15, 2019     Data processing systems for measuring privacy maturity within an organization
+
+10452864        Barday, et al.                           October 22, 2019     Data processing systems for webform crawling to map processing activities and related methods
+
+10452866        Barday, et al.                           October 22, 2019     Data processing systems for fulfilling data subject access requests and related methods
+
+10454934        Parimi, et al.                           October 22, 2019     Activity based access control in heterogeneous environments
+
+10481763        Bartkiewicz, et al.                      November 19, 2019    Mobile stamp creation and management for digital communications
+
+10503926        Barday, et al.                           December 10, 2019    Consent receipt management systems and related methods
+
+10510031        Barday, et al.                           December 17, 2019    Data processing systems for identifying, assessing, and remediating data processing risks using data modeling techniques
+
+10521623        Rodriguez, et al.                        December 31, 2019    Digital identity system  
+
+10534851        Chan, et al.                             January 14, 2020     Dynamic landing pages    
+
+10535081        Ferreira, et al.                         January 14, 2020     Optimizing audience engagement with digital content shared on a social networking system
+
+10536475        McCorkle, Jr., et al.                    January 14, 2020     Threat assessment based on coordinated monitoring of local communication clients
+
+10546135        Kassoumeh, et al.                        January 28, 2020     Inquiry response mapping for determining a cybersecurity risk level of an entity
+
+10558821        Barday, et al.                           February 11, 2020    Data processing systems for fulfilling data subject access requests and related methods
+
+10564815        Soon-Shiong                              February 18, 2020    Virtual teller systems and methods
+
+10564935        Barday, et al.                           February 18, 2020    Data processing systems for integration of consumer feedback with data subject access requests and related methods
+
+10564936        Barday, et al.                           February 18, 2020    Data processing systems for identity validation of data subject access requests and related methods
+
+10565161        Barday, et al.                           February 18, 2020    Data processing systems for processing data subject access requests
+
+10565236        Barday, et al.                           February 18, 2020    Data processing systems for generating and populating a data inventory
+
+10567517        Weinig, et al.                           February 18, 2020    Web resource load blocking API
+
+10572684        LaFever, et al.                          February 25, 2020    Systems and methods for enforcing centralized privacy controls in de-centralized systems
+
+10572686        Barday, et al.                           February 25, 2020    Consent receipt management systems and related methods
+
+10574705        Barday, et al.                           February 25, 2020    Data processing and scanning systems for generating and populating a data inventory
+
+10592648        Barday, et al.                           March 17, 2020       Consent receipt management systems and related methods
+
+10606916        Brannon, et al.                          March 31, 2020       Data processing user interface monitoring systems and related methods
+
+10613971        Vasikarla                                April 7, 2020        Autonomous testing of web-based applications
+
+10628553        Murrish, et al.                          April 21, 2020       Health information transformation system
+
+10650408        Andersen, et al.                         May 12, 2020         Budget smoothing in a messaging platform
+
+10659566        Luah, et al.                             May 19, 2020         Demo recording utility   
+
+10671749        Felice-Steele, et al.                    June 2, 2020         Authenticated access and aggregation database platform
+
+10671760        Esmailzadeh, et al.                      June 2, 2020         Secure and private data storage
+
+10678945        Barday, et al.                           June 9, 2020         Consent receipt management systems and related methods
+
+10685140        Barday, et al.                           June 16, 2020        Consent receipt management systems and related methods
+
+10706176        Brannon, et al.                          July 7, 2020         Data-processing consent refresh, re-prompt, and recapture systems and related methods
+
+10706226        Byun, et al.                             July 7, 2020         Graphical user interface for inter-party communication with automatic scoring
+
+10713387        Brannon, et al.                          July 14, 2020        Consent conversion optimization systems and related methods
+
+10726153        Nerurkar, et al.                         July 28, 2020        Differentially private machine learning using a random forest classifier
+
+10726158        Brannon, et al.                          July 28, 2020        Consent receipt management and automated process blocking systems and related methods
+
+10732865        Jain, et al.                             August 4, 2020       Distributed shared memory using interconnected atomic transaction engines at respective memory interfaces
+
+10740487        Barday, et al.                           August 11, 2020      Data processing systems and methods for populating and maintaining a centralized database of personal data
+
+10747893        Kiriyama, et al.                         August 18, 2020      Device and method for determining content of access control of data
+
+10747897        Cook                                     August 18, 2020      Privacy policy rating system
+
+10749870        Brouillette, et al.                      August 18, 2020      Adaptive device enrollment
+
+10762236        Brannon, et al.                          September 1, 2020    Data processing user interface monitoring systems and related methods
+
+10769302        Barday, et al.                           September 8, 2020    Consent receipt management systems and related methods
+
+10776510        Antonelli, et al.                        September 15, 2020   System for managing personal data
+
+10776518        Barday, et al.                           September 15, 2020   Consent receipt management systems and related methods
+
+10785173        Willett, et al.                          September 22, 2020   System and method for suggesting actions based upon incoming messages
+
+10791150        Barday, et al.                           September 29, 2020   Data processing and scanning systems for generating and populating a data inventory
+
+10796020        Barday, et al.                           October 6, 2020      Consent receipt management systems and related methods
+
+10796260        Brannon, et al.                          October 6, 2020      Privacy management systems and methods
+
+10834590        Turgeman, et al.                         November 10, 2020    Method, device, and system of differentiating between a cyber-attacker and a legitimate user
+
+10846433        Brannon, et al.                          November 24, 2020    Data processing consent management systems and related methods
+
+10860742        Joseph, et al.                           December 8, 2020     Privacy risk information display
+
+10878127        Brannon, et al.                          December 29, 2020    Data subject access request processing systems and related methods
+
+10885485        Brannon, et al.                          January 5, 2021      Privacy management systems and methods
+
+10896394        Brannon, et al.                          January 19, 2021     Privacy management systems and methods
+
+10909488        Hecht, et al.                            February 2, 2021     Data processing systems for assessing readiness for responding to privacy-related incidents
+
+10963571        Bar Joseph, et al.                       March 30, 2021       Privacy risk assessments 
+
+10972509        Barday, et al.                           April 6, 2021        Data processing and scanning systems for generating and populating a data inventory
+
+10984458        Gutierrez                                April 20, 2021       Network based age verification method
+
+20020077941     Halligan, R. Mark, et al.                June 20, 2002        Method and apparatus for documentation, analysis, auditing, accounting, protection, registration, and verification of trade secrets
+
+20020103854     Okita, Fujio                             August 1, 2002       Personal data management apparatus and personal data management method
+
+20020129216     Collins, Kevin                           September 12, 2002   Apparatus and method for configuring available storage capacity on a network as a logical device
+
+20020161594     Bryan, Helen Elizabeth, et al.           October 31, 2002     Method and system for providing remote quality assurance audits
+
+20020161733     Grainger, Jeffry J.                      October 31, 2002     Method of creating electronic prosecution experience for patent applicant
+
+20030041250     Proudler, Graeme John                    February 27, 2003    Privacy of data on a computer platform
+
+20030065641     Chaloux, Robert D.                       April 3, 2003        Systems and methods for acquiring information associated with an organization having a plurality of units
+
+20030093680     Astley, Mark C., et al.                  May 15, 2003         Methods, apparatus and computer programs performing a mutual challenge-response authentication protocol using operating system capabilities
+
+20030097451     Bjorksten, Margareta Gunilla, et al.     May 22, 2003         Personal data repository 
+
+20030097661     Li, Hua Harry, et al.                    May 22, 2003         Time-shifted television over IP network system
+
+20030115142     Brickell, Ernie F., et al.               June 19, 2003        Identity authentication portfolio system
+
+20030130893     Farmer, Bennie L.                        July 10, 2003        Systems, methods, and computer program products for privacy protection
+
+20030131001     Matsuo, Masanobu                         July 10, 2003        System, method and computer program product for setting access rights to information in an information exchange framework
+
+20030131093     Aschen, Sean Edward, et al.              July 10, 2003        System for generating usage data in a distributed information processing environment and method therefor
+
+20030167216     Brown, John S., et al.                   September 4, 2003    Method and apparatus for tracking fixed assets
+
+20030212604     Cullen, Andrew A. III                    November 13, 2003    System and method for enabling and maintaining vendor qualification
+
+20040025053     Hayward, Philip John                     February 5, 2004     Personal data device and protection system and method for storing and protecting personal data
+
+20040088235     Ziekle, William D., et al.               May 6, 2004          Technique for customizing electronic commerce user
+
+20040098366     Sinclair, Trevor, et al.                 May 20, 2004         Method and system for secure information
+
+20040098493     Rees, Owain Huw                          May 20, 2004         Web page access          
+
+20040111359     Hudock, John J.                          June 10, 2004        Business method for credit verification and correction
+
+20040186912     Harlow, Nicholas George, et al.          September 23, 2004   Method and system for transparently supporting digital signatures associated with web transactions
+
+20040193907     Patanella, Joseph                        September 30, 2004   Methods and systems for assessing and advising on electronic compliance
+
+20050022198     Olapurath, John, et al.                  January 27, 2005     Computer-implemented process management system
+
+20050033616     Vavul, John, et al.                      February 10, 2005    Travel management system providing customized travel plan
+
+20050076294     DeHamer, Brian James, et al.             April 7, 2005        Method and apparatus for supporting layout management in a web presentation architecture
+
+20050114343     Wesinger, Ralph E. JR., et al.           May 26, 2005         Automated on-line information service and directory, particularly for the world wide web
+
+20050144066     Cope, Daniel P., et al.                  June 30, 2005        Individually controlled and protected targeted incentive distribution system
+
+20050197884     Mullen, James G. JR.                     September 8, 2005    System and method for designing and conducting surveys and providing anonymous results
+
+20050198177     Black, Steve                             September 8, 2005    Opting out of spam       
+
+20050246292     Sarcanin, Branko                         November 3, 2005     Method and system for a virtual safe
+
+20050278538     Fowler, Stephan Dowys                    December 15, 2005    Method for naming and authentication
+
+20060031078     Pizzinger, Barbara, et al.               February 9, 2006     Method and system for electronically processing project requests
+
+20060075122     Lindskog, Helena, et al.                 April 6, 2006        Method and system for managing cookies according to a privacy policy
+
+20060149730     Curtis, James Russell                    July 6, 2006         Client authenticated web browser with access approval mechanism
+
+20060156052     Bodnar, Eric O., et al.                  July 13, 2006        Method and apparatus for management of data on handheld devices
+
+20060206375     Scott, Deborah, et al.                   September 14, 2006   System and method for targeted advertising and promotions based on previous event participation
+
+20060224422     Cohen, Ralph B.                          October 5, 2006      System and method for applying for insurance at a point of sale
+
+20060253597     Mujica, Alberto                          November 9, 2006     E-mail system            
+
+20060259416     Johnson, Garrett                         November 16, 2006    Distributed system for securities transactions
+
+20070027715     Gropper, Adrian, et al.                  February 1, 2007     Private health information interchange and related systems, methods, and devices
+
+20070061393     Moore, James F.                          March 15, 2007       Management of health care data
+
+20070130101     Anderson, Terry Paul, et al.             June 7, 2007         Method and system for granting access to personal information
+
+20070130323     Landsman, Richard A., et al.             June 7, 2007         Implied presence detection in a communication system
+
+20070157311     Meier, John D., et al.                   July 5, 2007         Security modeling and the application life cycle
+
+20070173355     Klein, William M.                        July 26, 2007        WIRELESS SENSOR SCORING WITH AUTOMATIC SENSOR SYNCHRONIZATION
+
+20070179793     Bagchi, Sugato, et al.                   August 2, 2007       Method and apparatus for model-driven managed business services
+
+20070180490     Renzi, Silvio J., et al.                 August 2, 2007       System and method for policy management
+
+20070192438     Goei, Esmond                             August 16, 2007      System and method for on-demand delivery of media products
+
+20070266420     Hawkins, Jennifer Lynn, et al.           November 15, 2007    PRIVACY MODELING FRAMEWORK FOR SOFTWARE APPLICATIONS
+
+20070283171     Breslin, Jodi, et al.                    December 6, 2007     SYSTEM AND METHOD FOR MANAGING DATA PRIVACY
+
+20080015927     Ramirez, Francisco J.                    January 17, 2008     System for Enabling Secure Private Exchange of Data and Communication Between Anonymous Network Participants and Third Parties and a Method Thereof
+
+20080028065     Caso, Erik, et al.                       January 31, 2008     Application threat modeling
+
+20080028435     Strickland, Zoe Camilla Claire, et al.   January 31, 2008     Methods and systems for determining privacy requirements for an informatin resource
+
+20080047016     Spoonamore, Stephen                      February 21, 2008    CCLIF: A quantified methodology system to assess risk of IT architectures and cyber operations
+
+20080120699     Spear, Paul R.                           May 22, 2008         Method and system for assessing and mitigating access control to a managed network
+
+20080195436     Whyte, Stephen Joseph                    August 14, 2008      Automated supplier self audit questionnaire system
+
+20080235177     Kim, Jong Young, et al.                  September 25, 2008   System and method for analyzing corporate regulatory-related data
+
+20080270203     Holmes, Robert, et al.                   October 30, 2008     Assessment of Risk to Domain Names, Brand Names and the Like
+
+20080281649     Morris, Daniel R.                        November 13, 2008    System and method for automated release tracking
+
+20080282320     DeNovo, Andrew, et al.                   November 13, 2008    Security Compliance Methodology and Tool
+
+20080288271     Faust, Claudia Jean                      November 20, 2008    Internet-Based Survey System and Method
+
+20090012896     Arnold, James B.                         January 8, 2009      SYSTEMS AND METHODS FOR AUTOMATED VENDOR RISK ANALYSIS
+
+20090022301     Mudaliar, Jayprakash                     January 22, 2009     MOBILE SERVICES          
+
+20090037975     Ishikawa, Mark M., et al.                February 5, 2009     System and Method for Authenticating Content
+
+20090138276     Hayashida, Norimasa, et al.              May 28, 2009         PRIVACY MANAGEMENT SYSTEM USING USER'S POLICY AND PREFERENCE MATCHING
+
+20090140035     Miller, David H.                         June 4, 2009         DATA BROKERAGE SYSTEM FOR MOBILE MARKETING
+
+20090144702     Atkin, Steven Edward, et al.             June 4, 2009         System And Program Product for Determining Java Software Code Plagiarism and Infringement
+
+20090158249     Tomkins, Andrew, et al.                  June 18, 2009        SYSTEM AND METHOD FOR TESTING A SOFTWARE MODULE
+
+20090172705     Cheong, Seong Ho                         July 2, 2009         Apparatus and Method for Preservation of USB Keyboard
+
+20090182818     Krywaniuk, Andrew                        July 16, 2009        HEURISTIC DETECTION OF PROBABLE MISSPELLED ADDRESSES IN ELECTRONIC COMMUNICATIONS
+
+20090187764     Astakhov, Pavel, et al.                  July 23, 2009        ELECTRONIC CERTIFICATION, IDENTIFICATION AND COMMUNICATION UTILIZING ENCRYPTED GRAPHICAL IMAGES
+
+20090204452     Iskandar, Rayan R., et al.               August 13, 2009      MANAGING A MULTI-SUPPLIER ENVIRONMENT
+
+20090204820     Brandenburg, Wes G., et al.              August 13, 2009      Method and apparatus for Account Management
+
+20090210347     Sarcanin, Branko                         August 20, 2009      Method and System for a Virtual Safe
+
+20090216610     Chorny, Diego                            August 27, 2009      METHOD FOR OBTAINING CONSUMER PROFILES BASED ON CROSS LINKING INFORMATION
+
+20090249076     Reed, William C., et al.                 October 1, 2009      INFORMATION SERVER AND MOBILE DELIVERY SYSTEM AND METHOD
+
+20090303237     Liu, Kun, et al.                         December 10, 2009    ALGORITHMS FOR IDENTITY ANONYMIZATION ON GRAPHS
+
+20100077484     Paretti, Christopher, et al.             March 25, 2010       LOCATION TRACKING PERMISSIONS AND PRIVACY
+
+20100082533     Nakamura, Takashi, et al.                April 1, 2010        UPDATE METHOD FOR DATABASE
+
+20100094650     Tran, Son Nam, et al.                    April 15, 2010       Methods and system for capturing and managing patient consents to prescribed medical procedures
+
+20100100398     Auker, Jeffrey David, et al.             April 22, 2010       SOCIAL NETWORK INTERFACE 
+
+20100121773     CURRIER, Michael J., et al.              May 13, 2010         SYSTEM AND METHOD FOR ENTERPRISE PRIVACY INFORMATION COMPLIANCE
+
+20100192201     Shimoni, Asaf, et al.                    July 29, 2010        Method and Apparatus for Excessive Access Rate Detection
+
+20100205057     Hook, Rodney, et al.                     August 12, 2010      PRIVACY-SENSITIVE METHODS, SYSTEMS, AND MEDIA FOR TARGETING ONLINE ADVERTISEMENTS USING BRAND AFFINITY MODELING
+
+20100223349     Thorson, Joel                            September 2, 2010    System, method and apparatus for message targeting and filtering
+
+20100228786     Torok, Tibor                             September 9, 2010    ASSESSMENT OF CORPORATE DATA ASSETS
+
+20100234987     Benschop, Dirk Leonard, et al.           September 16, 2010   SYSTEM AND METHOD OF AGE VERIFICATION FOR SELLING AGE-RESTRICTED GOODS FROM A VENDING MACHINE
+
+20100235297     Mamorsky, Jeffrey D.                     September 16, 2010   SYSTEM AND METHOD FOR MONITORING FIDUCIARY COMPLIANCE WITH EMPLOYEE RETIREMENT PLAN GOVERNANCE REQUIREMENTS
+
+20100235915     Memon, Nasir, et al.                     September 16, 2010   USING HOST SYMPTOMS, HOST ROLES, AND/OR HOST REPUTATION FOR DETECTION OF HOST INFECTION
+
+20100268628     Pitkow, James E., et al.                 October 21, 2010     Managing controlled content on a web page having revenue-generating code
+
+20100268932     Bhattacharjee, Deb Priya                 October 21, 2010     SYSTEM AND METHOD OF VERIFYING THE ORIGIN OF A CLIENT REQUEST
+
+20100281313     WHITE, John, et al.                      November 4, 2010     DYNAMICALLY GENERATED WEB SURVEYS FOR USE WITH CENSUS ACTIVITIES, AND ASSOCATED METHODS
+
+20100287114     Bartko, Peter, et al.                    November 11, 2010    COMPUTER GRAPHICS PROCESSING AND SELECTIVE VISUAL DISPLAY SYSTEMS
+
+20100333012     Adachi, Hisatoshi, et al.                December 30, 2010    Collaborative Data Entry 
+
+20110006996     Smith, Nathan J., et al.                 January 13, 2011     PRIVATE DATA ENTRY       
+
+20110010202     Neale, Michael D.                        January 13, 2011     SMART FORM               
+
+20110082794     Blechman, Elaine A.                      April 7, 2011        Client-centric e-health system and method with applications to long-term health and community care consumers, insurers, and regulators
+
+20110137696     Meyer, Karl, et al.                      June 9, 2011         PERFORMING FOLLOW-UP ACTIONS BASED ON SURVEY RESULTS
+
+20110145154     Rivers, Angela Smith, et al.             June 16, 2011        Policy Development Criticality And Complexity Ratings
+
+20110191664     Sheleheda, Daniel G., et al.             August 4, 2011       SYSTEMS FOR AND METHODS FOR DETECTING URL WEB TRACKING AND CONSUMER OPT-OUT COOKIES
+
+20110208850     Sheleheda, Daniel G., et al.             August 25, 2011      SYSTEMS FOR AND METHODS OF WEB PRIVACY PROTECTION
+
+20110209067     Bogess, KeAndre, et al.                  August 25, 2011      System and Method for Website User Valuation
+
+20110231896     Tovar, Tom C.                            September 22, 2011   SYSTEMS AND METHODS FOR REDIRECTION OF ONLINE QUERIES TO GENUINE CONTENT
+
+20110238573     Varadarajan, Rammohan                    September 29, 2011   CARDLESS ATM TRANSACTION METHOD AND SYSTEM
+
+20110252456     Hatakeyama, Makoto                       October 13, 2011     PERSONAL INFORMATION EXCHANGING SYSTEM, PERSONAL INFORMATION PROVIDING APPARATUS, DATA PROCESSING METHOD THEREFOR, AND COMPUTER PROGRAM THEREFOR
+
+20120084151     Kozak, Frank J., et al.                  April 5, 2012        Facilitation of user management of unsolicited server operations and extensions thereto
+
+20120084349     Lee, Wei-Yeh, et al.                     April 5, 2012        User interface for user management and control of unsolicited server operations
+
+20120102543     Kohli, Ashwin, et al.                    April 26, 2012       Audit Management System  
+
+20120110674     Belani, Rohyt, et al.                    May 3, 2012          METHODS AND SYSTEMS FOR RATING PRIVACY RISK OF APPLICATIONS FOR SMART PHONES AND OTHER MOBILE PLATFORMS
+
+20120116923     Irving, Dwight A., et al.                May 10, 2012         Privacy Risk Metrics in Online Systems
+
+20120131438     Li, Xiaojun, et al.                      May 24, 2012         Method and System of Web Page Content Filtering
+
+20120143650     CROWLEY, Thomas, et al.                  June 7, 2012         METHOD AND SYSTEM OF ASSESSING AND MANAGING RISK ASSOCIATED WITH COMPROMISED NETWORK ASSETS
+
+20120144499     Tan, Edwin, et al.                       June 7, 2012         SYSTEM TO INFORM ABOUT TRADEMARKS SIMILAR TO PROVIDED INPUT
+
+20120226621     Petran, Ruth L., et al.                  September 6, 2012    MODELING RISK OF FOODBORNE ILLNESS OUTBREAKS
+
+20120239557     WEINFLASH, LAURA E., et al.              September 20, 2012   SYSTEM AND METHOD FOR DETECTING FRAUDULENT ACCOUNT ACCESS AND TRANSFERS
+
+20120254320     Dove, Bryan J., et al.                   October 4, 2012      DISTRIBUTING COLLECTED INFORMATION TO DATA CONSUMERS BASED ON GLOBAL USER CONSENT INFORMATION
+
+20120259752     Agee, Brad                               October 11, 2012     FINANCIAL AUDIT RISK TRACKING SYSTEMS AND METHODS
+
+20120323700     Aleksandrovich, Prays Nikolay, et al.    December 20, 2012    IMAGE-BASED CAPTCHA SYSTEM
+
+20120330769     Arceo, Alejandro Diaz                    December 27, 2012    ELECTRONIC TRANSACTION TECHNIQUES IMPLEMENTED OVER A COMPUTER NETWORK
+
+20120330869     Durham, Jayson Theordore                 December 27, 2012    Mental Model Elicitation Device (MMED) Methods and Apparatus
+
+20130004933     Bhaskaran, Vivek                         January 3, 2013      INCREASING CONFIDENCE IN RESPONSES TO ELECTRONIC SURVEYS
+
+20130018954     CHENG, Doreen                            January 17, 2013     SITUATION-AWARE USER SENTIMENT SOCIAL INTEREST MODELS
+
+20130085801     Sharpe, Richard, et al.                  April 4, 2013        Supply Chain Performance Management Tool Having Predictive Capabilities
+
+20130103485     Postrel, Richard                         April 25, 2013       METHOD AND SYSTEM FOR PROVIDING CONSUMERS WITH CONTROL OVER USAGE OF THE CONSUMER' S DATA AND REWARDS ASSOCIATED THEREWITH
+
+20130111323     Taghaddos, Siamak, et al.                May 2, 2013          Survey System            
+
+20130124257     Schubert, Aaron                          May 16, 2013         ENGAGEMENT SCORING       
+
+20130159351     Hamann, Hendrik F., et al.               June 20, 2013        Asset Identity Resolution Via Automatic Model Mapping Between Systems With Spatial Data
+
+20130171968     WANG, Peng                               July 4, 2013         APPARATUS FOR DELETING PERSONAL DATA STORED IN PORTABLE ELECTRONIC DEVICE
+
+20130179982     Bridges, Jonathan Marc Huet, et al.      July 11, 2013        Data Processing Engine System And Method
+
+20130185806     Hatakeyama, Makoto                       July 18, 2013        PERSONAL-INFORMATION TRANSMISSION/RECEPTION SYSTEM, PERSONAL-INFORMATION TRANSMISSION/RECEPTION METHOD, PERSONAL-INFORMATION PROVISION APPARATUS, PREFERENCE MANAGEMENT APPARATUS AND COMPUTER PROGRAM
+
+20130218829     Martinez, Deneen Lizette                 August 22, 2013      DOCUMENT MANAGEMENT SYSTEM AND METHOD
+
+20130219459     Bradley, William B.                      August 22, 2013      CONTENT MANAGEMENT SYSTEMS AND METHODS
+
+20130254649     O'Neill, Michael, et al.                 September 26, 2013   ESTABLISHING USER CONSENT TO COOKIE STORAGE ON USER TERMINAL EQUIPMENT
+
+20130254699     Bashir, Tauseef, et al.                  September 26, 2013   SYSTEMS AND METHODS FOR MANAGING DOCUMENTS AND OTHER ELECTRONIC CONTENT
+
+20130262328     Federgreen, Warren Ross                  October 3, 2013      SYSTEM AND METHOD FOR AUTOMATED DATA BREACH COMPLIANCE
+
+20130282466     Hampton, George P.                       October 24, 2013     SYSTEMS AND METHODS FOR GENERATION OF AN ONLINE STORE
+
+20130290169     Bathula, Venkata Naresh, et al.          October 31, 2013     MANAGING FINANCIAL TRANSACTIONS USING TRANSACTION DATA FROM SMS NOTIFICATIONS
+
+20130298071     Wine, Jonathan                           November 7, 2013     FINGER TEXT-ENTRY OVERLAY
+
+20130311224     Heroux, Richard W., et al.               November 21, 2013    System and Method for Automated Standards Compliance
+
+20130318207     Dotter, James Eric                       November 28, 2013    SYSTEMS AND METHODS FOR MANAGING MOBILE APP DATA
+
+20130326112     Park, Young-Jin, et al.                  December 5, 2013     COMPUTER SYSTEM HAVING NON-VOLATILE MEMORY AND METHOD OF OPERATING THE COMPUTER SYSTEM
+
+20130332362     Ciurea, Peter                            December 12, 2013    SYSTEMS AND METHODS TO CUSTOMIZE PRIVACY PREFERENCES
+
+20130340086     Blom, Jan Otto                           December 19, 2013    METHOD AND APPARATUS FOR PROVIDING CONTEXTUAL DATA PRIVACY
+
+20140006355     Kirihata, Yasuhiro                       January 2, 2014      INFORMATION PROCESSING SYSTEM, BACKUP MANAGEMENT METHOD AND PROGRAM
+
+20140006616     AAD, Imad, et al.                        January 2, 2014      METHOD AND APPARATUS FOR CATEGORIZING APPLICATION ACCESS REQUESTS ON A DEVICE
+
+20140012833     HUMPRECHT, HANS-CHRISTIAN                January 9, 2014      PROTECTION OF DATA PRIVACY IN AN ENTERPRISE SYSTEM
+
+20140019561     Belity, Naftali Anidjar, et al.          January 16, 2014     Systems and Methods for Interactive Content Generation
+
+20140032259     LaFever, Malcolm Gary, et al.            January 30, 2014     SYSTEMS AND METHODS FOR PRIVATE AND SECURE COLLECTION AND MANAGEMENT OF PERSONAL CONSUMER DATA
+
+20140032265     Paprocki, Scott                          January 30, 2014     SYSTEMS AND METHODS OF AGGREGATING CONSUMER INFORMATION
+
+20140040134     Ciurea, Peter                            February 6, 2014     SYSTEMS AND METHODS TO PROTECT USER PRIVACY
+
+20140040161     Berlin, Jason                            February 6, 2014     METHOD AND SYSTEM FOR MANAGING BUSINESS FEEDBACK ONLINE
+
+20140040979     Barton, Gary, et al.                     February 6, 2014     Policy-Based Application Management
+
+20140047551     Nagasundaram, Sekhar, et al.             February 13, 2014    PRIVACY FIREWALL         
+
+20140052463     Cashman, Steve, et al.                   February 20, 2014    VETERINARY  KIOSK WITH INTEGRATED VETERINARY MEDICAL DEVICES
+
+20140074645     Ingram, Doug                             March 13, 2014       Bid Assessment Analytics 
+
+20140089027     Brown, Wendell D.                        March 27, 2014       SYSTEM AND METHOD FOR OUTSOURCING COMPUTER-BASED TASKS
+
+20140089039     McClellan, Chris                         March 27, 2014       Incident management system
+
+20140108173     Cooper, Brian, et al.                    April 17, 2014       SYSTEM AND ARCHITECTURE FOR MERCHANT INTEGRATION OF A BIOMETRIC PAYMENT SYSTEM
+
+20140142988     Grosso, Anthony J., et al.               May 22, 2014         SYSTEM AND METHOD FOR ANALYZING PRIVACY BREACH RISK DATA
+
+20140143011     Mudugu, Sridhar, et al.                  May 22, 2014         SYSTEM AND METHOD FOR APPLICATION-MIGRATION ASSESSMENT
+
+20140164476     Thomson, David                           June 12, 2014        APPARATUS AND METHOD FOR PROVIDING A VIRTUAL ASSISTANT
+
+20140188956     Subba, Rajen, et al.                     July 3, 2014         PERSONALIZED REAL-TIME RECOMMENDATION SYSTEM
+
+20140196143     FLIDERMAN, SANDY, et al.                 July 10, 2014        METHOD AND APPARATUS FOR REAL-TIME VERIFICATION OF LIVE PERSON PRESENCE ON A NETWORK
+
+20140208418     Libin, Phil                              July 24, 2014        AUTOMATIC PROTECTION OF PARTIAL DOCUMENT CONTENT
+
+20140222468     Araya, Shinsuke, et al.                  August 7, 2014       INFORMATION PROCESSING APPARATUS AND METHOD, AND PROGRAM
+
+20140244309     Francois, Cedric                         August 28, 2014      SYSTEMS AND METHODS FOR ASSEMBLING ELECTRONIC MEDICAL RECORDS
+
+20140244325     Cartwright, Kathryn                      August 28, 2014      SYSTEMS AND METHODS FOR CAPTURING, MANAGING, SHARING, AND VISUALISING ASSET INFORMATION OF AN ORGANIZATION
+
+20140244375     Kim, Stanley                             August 28, 2014      REWARD DISTRIBUTION PLATFORM FOR INCREASING ENGAGEMENT
+
+20140244399     Orduna, Arthur, et al.                   August 28, 2014      SYSTEM FOR CONTROLLING USE OF PERSONAL DATA
+
+20140257917     Spencer, Frederick, et al.               September 11, 2014   Risk Management System for Calculating Residual Risk of a Process
+
+20140258093     Gardiner, Philip, et al.                 September 11, 2014   METHODS AND SYSTEMS FOR SELF-FUNDING INVESTMENTS
+
+20140278663     Samuel, Ajith, et al.                    September 18, 2014   ELECTRONIC DISCOVERY SYSTEMS AND WORKFLOW MANAGEMENT METHOD
+
+20140278730     MUHART, Matthew, et al.                  September 18, 2014   VENDOR MANAGEMENT SYSTEM AND METHOD FOR VENDOR RISK PROFILE AND RISK RELATIONSHIP GENERATION
+
+20140283027     Orona, Martin, et al.                    September 18, 2014   Auditing User Actions in Treatment Related Files
+
+20140283106     Stahura, Paul, et al.                    September 18, 2014   DOMAIN PROTECTED MARKS LIST BASED TECHNIQUES FOR MANAGING DOMAIN NAME REGISTRATIONS
+
+20140288971     Whibbs, III, Vincent J.                  September 25, 2014   PATIENT SURVEY METHOD AND SYSTEM
+
+20140289862     Gorfein, William, et al.                 September 25, 2014   SYSTEMS AND METHODS FOR MANAGING DATA ASSETS ASSOCIATED WITH PEER-TO-PEER NETWORKS
+
+20140317171     Fox, Jason, et al.                       October 23, 2014     METHODS AND APPARATUS FOR USER INTERFACE NAVIGATION
+
+20140324480     Dufel, Michael, et al.                   October 30, 2014     Interface and Repository for Facilitating Patient Consent
+
+20140337041     Madden, Joseph, et al.                   November 13, 2014    Mobile Application for Defining, Sharing and Rewarding Compliance with a Blood Glucose Level Monitoring Regimen
+
+20140337466     Li, Hong, et al.                         November 13, 2014    PERSONA MANAGER FOR NETWORK COMMUNICATIONS
+
+20140344015     Puertolas-Montanes, Jose Antonio, et al. November 20, 2014    SYSTEMS AND METHODS ENABLING CONSUMERS TO CONTROL AND MONETIZE THEIR PERSONAL DATA
+
+20150012363     Grant, David S., et al.                  January 8, 2015      METHODS AND SYSTEMS FOR PROCESSING AND DISPLAYING CONTENT
+
+20150019530     FELCH, Andrew C.                         January 15, 2015     QUERY LANGUAGE FOR UNSTRUCTED DATA
+
+20150026260     Worthley, Donald                         January 22, 2015     Community Knowledge Management System
+
+20150033112     Norwood, Michael Roy, et al.             January 29, 2015     SYSTEM AND METHOD FOR TAGGING CONTENT IN A DIGITAL MEDIA DISPLAY
+
+20150066577     Christiansen, James, et al.              March 5, 2015        METHOD AND SYSTEM FOR ASSESSING, MANAGING AND MONITORING INFORMATION TECHNOLOGY RISK
+
+20150106867     Liang, Dong                              April 16, 2015       SECURITY INFORMATION AND EVENT MANAGEMENT
+
+20150106948     Holman, Pablos, et al.                   April 16, 2015       METHODS, SYSTEMS, AND DEVICES FOR MONITORING PRIVACY BEACONS RELATED TO ENTITIES DEPICTED IN IMAGES
+
+20150106949     Holman, Pablos, et al.                   April 16, 2015       DEVICES, METHODS, AND SYSTEMS FOR MANAGING REPRESENTATIONS OF ENTITIES THROUGH USE OF PRIVACY INDICATORS
+
+20150143258     CAROLAN, Shawn, et al.                   May 21, 2015         EMAIL AND TASK MANAGEMENT SERVICES AND USER INTERFACE
+
+20150149362     Baum, Brian, et al.                      May 28, 2015         Encryption and Distribution of Health-related Data
+
+20150154520     Federgreen, Warren Ross, et al.          June 4, 2015         Automated Data Breach Notification
+
+20150169318     NASH, Peter                              June 18, 2015        METHOD AND SYSTEM FOR MODIFYING DEPLOYED APPLICATIONS
+
+20150172296     Fujioka, Robb                            June 18, 2015        SYSTEMS AND METHODS FOR DEVICE CONFIGURATION AND ACTIVATION WITH AUTOMATED PRIVACY LAW COMPLIANCE
+
+20150178740     Borawski, Albert T., et al.              June 25, 2015        METHODS AND APPARATUS TO IDENTIFY USERS ASSOCIATED WITH DEVICE APPLICATION USAGE
+
+20150199534     Francis, Gordon Eric, et al.             July 16, 2015        Secure Storage System and Uses Thereof
+
+20150199541     Koch, Christopher James, et al.          July 16, 2015        METHOD AND SYSTEM FOR SECURED COMMUNICATION OF PERSONAL INFORMATION
+
+20150199702     Singh, Ankit                             July 16, 2015        SYSTEMS AND METHODS FOR USING TRANSACTION DATA ASSOCIATED WITH A LOYALTY PROGRAM IDENTIFIER TO CONDUCT A PURCHASE TRANSACTION
+
+20150229664     HAWTHORN, Trevor Tyler, et al.           August 13, 2015      ASSESSING SECURITY RISKS OF USERS IN A COMPUTING NETWORK
+
+20150235049     Cohen, Simona, et al.                    August 20, 2015      Maintaining Data Privacy in a Shared Data Storage System
+
+20150235050     Wouhaybi, Rita H., et al.                August 20, 2015      CONTEXT-AWARE PRIVACY METER
+
+20150235283     Nishikawa, Hiroshi                       August 20, 2015      COMMODITY SALES DATA PROCESSING APPARATUS AND COMPUTER PROGRAM
+
+20150242778     Wilcox, Richard E., et al.               August 27, 2015      Vendor Management System 
+
+20150242858     Smith, Mackenzie M., et al.              August 27, 2015      Risk Assessment On A Transaction Level
+
+20150254597     Jahagirdar, Ketan R.                     September 10, 2015   Systems and Methods for Project Planning and Management
+
+20150261887     Joukov, Nikolai                          September 17, 2015   ANALYSIS OF DATA FLOWS IN COMPLEX ENTERPRISE IT ENVIRONMENTS
+
+20150262189     Vergeer, Adrianus Marinus Hendrikus (Menno) September 17, 2015   ONLINE COMMUNITY-BASED KNOWLEDGE CERTIFICATION METHOD AND SYSTEM
+
+20150264417     Spitz, Robert K., et al.                 September 17, 2015   APPARATUS AND METHOD FOR AUTOMATIC PROVISIONING OF MERCHANDISE
+
+20150269384     Holman, Pablos, et al.                   September 24, 2015   DEVICES, METHODS, AND SYSTEMS FOR MANAGING REPRESENTATIONS OF ENTITIES THROUGH USE OF PRIVACY INDICATORS
+
+20150309813     Patel, Vimal Ashwinkumar                 October 29, 2015     A System for analyzing applications in order to find security and quality issues
+
+20150310227     ISHIDA, Tetsuro, et al.                  October 29, 2015     INFORMATION PROCESSING SYSTEM AND INFORMATION PROCESSING METHOD
+
+20150310575     Shelton, Robert                          October 29, 2015     SYSTEM AND METHOD FOR CONTROLLING COMMUNICATION OF PRIVATE INFORMATION OVER A NETWORK
+
+20150356362     DEMOS, Stavros                           December 10, 2015    PERSONAL ELECTRONIC DEVICE FOR PERFORMING MULTIMODAL IMAGING FOR NON-CONTACT IDENTIFICATION OF MULTIPLE BIOMETRIC TRAITS
+
+20150379430     DIRAC, LEO PARKER, et al.                December 31, 2015    EFFICIENT DUPLICATE DETECTION FOR MACHINE LEARNING DATA SETS
+
+20160012465     Sharp, Jeffrey A.                        January 14, 2016     SYSTEM AND METHOD FOR DISTRIBUTING, RECEIVING, AND USING FUNDS OR CREDITS AND APPARATUS THEREOF
+
+20160026394     GOTO, Masataka                           January 28, 2016     IMAGE PROCESSING DEVICE, DATA ACCESSING METHOD, AND COMPUTER PROGRAM PRODUCT
+
+20160034918     Bjelajac, Cris, et al.                   February 4, 2016     SYSTEM AND METHOD FOR MANAGING CUSTOMER FEEDBACK
+
+20160048700     Stransky-Heilkron, Philippe              February 18, 2016    SECURING PERSONAL INFORMATION
+
+20160050213     Storr, James Robert                      February 18, 2016    SYSTEM, METHOD, COMPUTER PROGRAM AND DATA SIGNAL FOR THE PROVISION OF A PROFILE OF IDENTIFICATION
+
+20160063523     Nistor, Diana Ioana, et al.              March 3, 2016        FEEDBACK INSTRUMENT MANAGEMENT SYSTEMS AND METHODS
+
+20160063567     SRIVASTAVA, Ashok N.                     March 3, 2016        MARKETING PLATFORM THAT IDENTIFIES PARTICULAR USER ATTRIBUTES FOR MARKETING PURPOSES
+
+20160071112     UNSER, Kenneth                           March 10, 2016       METHOD AND SYSTEM FOR PROVIDING TRANSPARENCY IN DATA COLLECTION AND USAGE
+
+20160099963     Mahaffey, Kevin Patrick, et al.          April 7, 2016        METHODS AND SYSTEMS FOR SHARING RISK RESPONSES BETWEEN COLLECTIONS OF MOBILE COMMUNICATIONS DEVICES
+
+20160103963     MISHRA, VARUN                            April 14, 2016       METHOD AND SYSTEM FOR SMART HEALTHCARE MANAGEMENT
+
+20160125550     JOAO, RAYMOND ANTHONY, et al.            May 5, 2016          APPARATUS AND METHOD FOR PROCESSING AND/OR FOR PROVIDING HEALTHCARE INFORMATION AND/OR HEALTHCARE-RELATED INFORMATION
+
+20160125749     Delacroix, Erin Louise, et al.           May 5, 2016          USER INTERFACE FOR A/B TESTING
+
+20160125751     Barker, Kevin S., et al.                 May 5, 2016          ANSWER MANAGEMENT IN A QUESTION-ANSWERING ENVIRONMENT
+
+20160140466     Sidebottom, Peter, et al.                May 19, 2016         DIGITAL DATA SYSTEM FOR PROCESSING, MANAGING AND MONITORING OF RISK SOURCE DATA
+
+20160143570     Valacich, Joseph S., et al.              May 26, 2016         AUTOMATED DETECTION METHOD FOR INSIDER THREAT
+
+20160148143     Anderson, Eric M., et al.                May 26, 2016         PRIORITIZING WORKLOAD    
+
+20160162269     Pogorelik, Oleg, et al.                  June 9, 2016         SECURITY EVALUATION AND USER INTERFACE FOR APPLICATION INSTALLATION
+
+20160164915     Cook, Michael                            June 9, 2016         PRIVACY POLICY RATING SYSTEM
+
+20160180386     Konig, Francis                           June 23, 2016        SYSTEM AND METHOD FOR CLOUD BASED PAYMENT INTELLIGENCE
+
+20160188450     Appusamy, Rameshkumar, et al.            June 30, 2016        AUTOMATED APPLICATION TEST SYSTEM
+
+20160196189     Miyagi, Koyo, et al.                     July 7, 2016         FAILURE MONITORING DEVICE, COMPUTER-READABLE RECORDING MEDIUM, AND FAILURE MONITORING METHOD
+
+20160225000     Glasgow, Jay O.                          August 4, 2016       CONSENT VALUATION        
+
+20160232465     Kurtz, Kenneth, et al.                   August 11, 2016      SUBSCRIBER-BASED SYSTEM FOR CUSTOM EVALUATIONS OF BUSINESS RELATIONSHIP RISK
+
+20160232534     LACEY, Stuart H., et al.                 August 11, 2016      Systems and Methods for Generating an Auditable Digital Certificate
+
+20160234319     Griffin, Keith                           August 11, 2016      COLLABORATION TECHNIQUES BETWEEN PARTIES USING ONE OR MORE COMMUNICATION MODALITIES
+
+20160246991     Bell, Wanda, et al.                      August 25, 2016      Systems and Methods for Automated Data Privacy Compliance
+
+20160255139     Rathod, Yogesh Chunilal                  September 1, 2016    Structured updated status, requests, user data & programming based presenting & accessing of connections or connectable users or entities and/or link(s)
+
+20160261631     Vissamsetty, Venu, et al.                September 8, 2016    EMULATING SHELLCODE ATTACKS
+
+20160262163     GONZALEZ GARRIDO, Jose Ayub, et al.      September 8, 2016    SYSTEM AND METHOD FOR DECENTRALIZED CONTROL OF WIRELESS NETWORKS
+
+20160292621     Ciccone, Lisa, et al.                    October 6, 2016      AUTOMATICALLY IDENTIFYING A PROJECT'S STAFFING-AVAILABILITY RISK
+
+20160321582     Broudou, Julian, et al.                  November 3, 2016     DEVICE, PROCESS AND SYSTEM FOR RISK MITIGATION
+
+20160321748     Mahatma, Shilpa, et al.                  November 3, 2016     METHOD FOR MARKET RISK ASSESSMENT FOR HEALTHCARE APPLICATIONS
+
+20160330237     Edlabadkar, Abhay                        November 10, 2016    System and Method for Blocking Internet Data Brokers and Networks
+
+20160342811     Whitcomb, Wayne, et al.                  November 24, 2016    Secure Storage and Access to Sensitive Data
+
+20160364736     Maugans, III, Harry Russell              December 15, 2016    METHOD AND SYSTEM FOR PROVIDING BUSINESS INTELLIGENCE BASED ON USER BEHAVIOR
+
+20160370954     Burningham, Wesley Jarrett, et al.       December 22, 2016    RECOMPOSING SURVEY QUESTIONS FOR DISTRIBUTION VIA MULTIPLE DISTRIBUTION CHANNELS
+
+20160378762     Rohter, Alon                             December 29, 2016    METHODS AND SYSTEMS FOR IDENTIFYING MEDIA ASSETS
+
+20160381064     CHAN, YUK L., et al.                     December 29, 2016    MANAGING DATA PRIVACY AND INFORMATION SAFETY
+
+20160381560     MARGALIOT, Nachshon                      December 29, 2016    SYSTEMS AND METHODS FOR DERIVATIVE FRAUD DETECTION CHALLENGES IN MOBILE DEVICE TRANSACTIONS
+
+20170004055     Horan, Scott M., et al.                  January 5, 2017      SYNCHRONIZING REPLICATED STORED DATA
+
+20170032395     Kaufman, Scott, et al.                   February 2, 2017     SYSTEM AND METHOD FOR DYNAMICALLY CREATING, UPDATING AND MANAGING SURVEY QUESTIONS
+
+20170032408     Kumar, Ankesh, et al.                    February 2, 2017     AUTOMATED SUBSCRIBER ENGAGEMENT
+
+20170034101     Kumar, Ankesh, et al.                    February 2, 2017     AGGREGATE ELECTRONIC MAIL MESSAGE HANDLING
+
+20170041324     Ionutescu, Cipriano, et al.              February 9, 2017     SYSTEMS AND METHODS FOR PERSONAL PROPERTY INFORMATION MANAGEMENT
+
+20170046399     SANKARANARASIMHAN, Manikandan, et al.    February 16, 2017    Discovery of Application States
+
+20170046753     Deupree, IV, William J.                  February 16, 2017    PROVISIONING AN INTERACTIVE FEEDBACK SERVICE VIA A NETWORK
+
+20170068785     Experton, Bettina, et al.                March 9, 2017        SECURE REAL-TIME HEALTH RECORD EXCHANGE
+
+20170093917     Chandra, Sekhar Sumanth Gorajala, et al. March 30, 2017       CENTRALIZED MANAGEMENT AND ENFORCEMENT OF ONLINE BEHAVIORAL TRACKING POLICIES
+
+20170115864     Thomas, George, et al.                   April 27, 2017       VISUAL FORM DESIGNER     
+
+20170124570     Nidamanuri, Srinivasarao, et al.         May 4, 2017          SYSTEMS AND METHODS FOR FEEDING A PREVIOUS CASE ACTION FOR A DECISION OF CONFIRMING FINANCIAL TRANSACTIONS
+
+20170140174     Lacey, Stuart H., et al.                 May 18, 2017         Systems and Methods for Obtaining Authorization to Release Personal Information Associated with a User
+
+20170140467     Neag, Peter, et al.                      May 18, 2017         INTERACTIVE DATA MANAGEMENT SYSTEM
+
+20170142158     LAOUTARIS, Nikolaos, et al.              May 18, 2017         METHOD, A DEVICE AND COMPUTER PROGRAM PRODUCTS FOR PROTECTING PRIVACY OF USERS FROM WEB-TRACKERS
+
+20170142177     HU, Chaoping                             May 18, 2017         METHOD AND SYSTEM FOR NETWORK DISPATCHING
+
+20170154188     MEIER, Philipp, et al.                   June 1, 2017         CONTEXT-SENSITIVE COPY AND PASTE BLOCK
+
+20170161520     Lockhart, III, Lester Leland, et al.     June 8, 2017         Systems and Methods of Determining Compromised Identity Information
+
+20170171235     Mulchandani, Shaan, et al.               June 15, 2017        CONNECTED SECURITY SYSTEM
+
+20170177324     FRANK, Martin Robert, et al.             June 22, 2017        MAINTAINING DEPLOYMENT PIPELINES FOR A PRODUCTION COMPUTING SERVICE USING LIVE PIPELINE TEMPLATES
+
+20170180378     Tyler, Simon Paul, et al.                June 22, 2017        MEDIATED ACCESS TO RESOURCES
+
+20170180505     Shaw, Venson, et al.                     June 22, 2017        METHOD, COMPUTER-READABLE STORAGE DEVICE AND APPARATUS FOR STORING PRIVACY INFORMATION
+
+20170193624     Tsai, John                               July 6, 2017         PERSONAL INFORMATION CERTIFICATION AND MANAGEMENT SYSTEM
+
+20170201518     Holmqvist, Karl, et al.                  July 13, 2017        METHOD AND SYSTEM FOR REAL-TIME AUTHENTICATION OF USER ACCESS TO A RESOURCE
+
+20170206707     Guay, Anthony, et al.                    July 20, 2017        VIRTUAL REALITY ANALYTICS PLATFORM
+
+20170208084     Steelman, Doug M., et al.                July 20, 2017        System and Method for Attribution of Actors to Indicators of Threats to a Computer System and Prediction of Future Threat Actions
+
+20170220685     Yan, Hailun, et al.                      August 3, 2017       FACILITATING DATA MODEL ACCELERATION IN ASSOCIATION WITH AN EXTERNAL DATA SYSTEM
+
+20170220964     Datta Ray, Partha                        August 3, 2017       PERVASIVE, DOMAIN AND SITUATIONAL-AWARE, ADAPTIVE, AUTOMATED, AND COORDINATED BIG DATA ANALYSIS, CONTEXTUAL LEARNING AND PREDICTIVE CONTROL OF BUSINESS  AND OPERATIONAL RISKS AND SECURITY
+
+20170249710     GUILLAMA, Noel J., et al.                August 31, 2017      EPISODIC SOCIAL NETWORKS 
+
+20170269791     Meyerzon, Dmitriy, et al.                September 21, 2017   User Interfaces for Personalized Content Recommendation
+
+20170270318     Ritchie, Stuart                          September 21, 2017   PRIVACY IMPACT ASSESSMENT SYSTEM AND ASSOCIATED METHODS
+
+20170278004     McElhinney, Adam, et al.                 September 28, 2017   Computer Systems and Methods for Creating Asset-Related Tasks Based on Predictive Models
+
+20170278117     WALLACE, Catriona, et al.                September 28, 2017   CUSTOMER EXPERIENCE PERSONALISATION MANAGEMENT PLATFORM
+
+20170286719     Krishnamurthy, Balachander, et al.       October 5, 2017      Tailored Protection of Personally Identifiable Information
+
+20170287031     Barday, Kabir A.                         October 5, 2017      DATA PROCESSING AND COMMUNICATION SYSTEMS AND METHODS FOR OPERATIONALIZING PRIVACY COMPLIANCE AND REGULATION AND RELATED SYSTEMS AND METHODS
+
+20170289199     Barday, Kabir A.                         October 5, 2017      DATA PROCESSING SYSTEMS AND METHODS FOR EFFICIENTLY COMMUNICATING DATA FLOWS IN PRIVACY CAMPAIGNS
+
+20170308875     O'Regan, Alan Joseph, et al.             October 26, 2017     SYSTEMS AND METHODS FOR INITIATING PAYMENTS IN FAVOUR OF A PAYEE ENTITY
+
+20170316400     Venkatakrishnan, Poornima, et al.        November 2, 2017     USER AUTHENTICATION USING A BROWSER COOKIE SHARED BETWEEN A BROWSER AND AN APPLICATION
+
+20170330197     DiMaggio, John P., et al.                November 16, 2017    METHODS AND SYSTEMS FOR MANAGING COMPLIANCE PLANS
+
+20170353404     HODGE, Stephen L.                        December 7, 2017     PERSONALIZED CHATBOTS FOR INMATES
+
+20180032757     Michael, Azeem                           February 1, 2018     Health Status Matching System and Method
+
+20180039975     Hefetz, Guy                              February 8, 2018     METHOD OF REDUCING FRAUD IN ON-LINE TRANSACTIONS
+
+20180041498     KIKUCHI, Ryota                           February 8, 2018     PROGRAM, METHOD AND SYSTEM FOR AUTHENTICATING CONTROL DEVICE
+
+20180046753     Shelton, Robert                          February 15, 2018    SYSTEM, METHOD AND APPARATUS TO ENHANCE PRIVACY AND ENABLE BROAD SHARING OF BIOINFORMATIC DATA
+
+20180063174     Grill, Martin, et al.                    March 1, 2018        ILLEGITIMATE TYPOSQUATTING DETECTION WITH INTERNET PROTOCOL INFORMATION
+
+20180063190     Wright, Jordan, et al.                   March 1, 2018        METHOD FOR IDENTIFYING PHISHING WEBSITES AND HINDERING ASSOCIATED ACTIVITY
+
+20180082368     Weinflash, Laura E., et al.              March 22, 2018       SYSTEM AND METHOD FOR DETECTING FRAUDULENT ACCOUNT ACCESS AND TRANSFERS
+
+20180083843     Sambandam, Anand                         March 22, 2018       Method and System for Facilitating Management of Service Agreements for Consumer Clarity Over Multiple Channels
+
+20180091476     Jakobsson, Bjorn Markus, et al.          March 29, 2018       MITIGATING COMMUNICATION RISK BY DETECTING SIMILARITY TO A TRUSTED MESSAGE CONTACT
+
+20180131574     Jacobs, Jordan M., et al.                May 10, 2018         REMOTE SERVER MONITORING AND PATCHING SYSTEM
+
+20180131658     Bhagwan, Varun, et al.                   May 10, 2018         SUBSCRIPTION TRANSFER    
+
+20180146004     BELFIORE, JR., Anthony R., et al.        May 24, 2018         SYSTEMS AND METHODS FOR CYBERSECURITY RISK ASSESSMENT
+
+20180165637     Romero, Alberto, et al.                  June 14, 2018        COMPUTER-IMPLEMENTED SYSTEM AND METHODS FOR SECURE PACKAGE DELIVERY
+
+20180198614     NEUMANN, Libor                           July 12, 2018        METHOD FOR MAPPING AT LEAST TWO AUTHENTICATION DEVICES TO A USER ACCOUNT USING AN AUTHENTICATION SERVER
+
+20180219917     Chiang, Mung                             August 2, 2018       RECOMMENDATIONS FOR SECURITY ASSOCIATED WITH ACCOUNTS
+
+20180239500     Allen, Morgan S., et al.                 August 23, 2018      Data Processing System with Machine Learning Engine to Provide Dynamic Interface Functions
+
+20180248914     Sartor, Mark A.                          August 30, 2018      MONITORING A PRIVACY RATING FOR AN APPLICATION OR WEBSITE
+
+20180285887     Maung, Crispen                           October 4, 2018      COMPUTING SYSTEMS FOR HETEROGENEOUS REGULATORY CONTROL COMPLIANCE MONITORING AND AUDITING
+
+20180301222     DEW, SR., DOUGLAS K., et al.             October 18, 2018     METHOD AND PLATFORM/SYSTEM FOR CREATING A WEB-BASED FORM THAT INCORPORATES AN EMBEDDED KNOWLEDGE BASE, WHEREIN THE FORM PROVIDES AUTOMATIC FEEDBACK TO A USER DURING AND FOLLOWING COMPLETION OF THE FORM
+
+20180307859     LaFever, Malcolm Gary, et al.            October 25, 2018     SYSTEMS AND METHODS FOR ENFORCING CENTRALIZED PRIVACY CONTROLS IN DE-CENTRALIZED SYSTEMS
+
+20180349583     Turgeman, Avi, et al.                    December 6, 2018     System, Device, and Method of Determining Personal Characteristics of a User
+
+20180351888     Howard, Michael Maiclein                 December 6, 2018     Electronic Communication Platform
+
+20180352003     Winn, Adam Gregory, et al.               December 6, 2018     Network Access Control with Compliance Policy Check
+
+20180357243     YOON, Seong Min                          December 13, 2018    COLLECTIVE INTELLIGENCE CONVERGENCE SYSTEM AND METHOD THEREOF
+
+20180365720     Goldman, Dov Joseph, et al.              December 20, 2018    CONTROLS MODULE          
+
+20180374030     Barday, Kabir A., et al.                 December 27, 2018    DATA PROCESSING SYSTEMS FOR CALCULATING AND COMMUNICATING COST OF FULFILLING DATA SUBJECT ACCESS REQUESTS AND RELATED METHODS
+
+20180375814     HART, Caitlin                            December 27, 2018    TRACKING AND CONTROLLING MASS COMMUNICATIONS
+
+20190005210     Wiederspohn, Joerg, et al.               January 3, 2019      CENTRALIZED CONSENT MANAGEMENT
+
+20190012672     FRANCESCO, Viola                         January 10, 2019     METHOD AND SYSTEM FOR ENHANCING THE SECURITY OF A TRANSACTION
+
+20190019184     Lacey, Stuart H., et al.                 January 17, 2019     Systems for Generating an Auditable Digital Certificate
+
+20190050547     Welsh, Tyler C., et al.                  February 14, 2019    Systems and Methods for Authenticating Users in Virtual Reality Settings
+
+20190087570     Sloane, Brandon                          March 21, 2019       SYSTEM FOR GENERATION AND EXECUTION OF EVENT IMPACT MITIGATION
+
+20190096020     Barday, Kabir A., et al.                 March 28, 2019       CONSENT RECEIPT MANAGEMENT SYSTEMS AND RELATED METHODS
+
+20190108353     Sadeh, Norman, et al.                    April 11, 2019       Personalized Privacy Assistant
+
+20190130132     Barbas, Pedro, et al.                    May 2, 2019          RUNTIME CONTROL OF AUTOMATION ACCURACY USING ADJUSTABLE THRESHOLDS
+
+20190138496     YAMAGUCHI, Hiroshi                       May 9, 2019          DATA MIGRATION SYSTEM AND DATA MIGRATION METHOD
+
+20190148003     VAN HOE, Lieven                          May 16, 2019         METHOD AND SYSTEM FOR RADIOLOGY REPORTING
+
+20190156053     Vogel, Matthias, et al.                  May 23, 2019         GENERAL DATA PROTECTION REGULATION (GDPR) INFRASTRUCTURE FOR MICROSERVICES AND PROGRAMMING MODEL
+
+20190156058     VAN DYNE, Colette, et al.                May 23, 2019         DYNAMIC MANAGEMENT OF DATA WITH CONTEXT-BASED PROCESSING
+
+20190180051     Barday, Kabir A., et al.                 June 13, 2019        CONSENT RECEIPT MANAGEMENT SYSTEMS AND RELATED METHODS
+
+20190182294     Rieke, Malcolm, et al.                   June 13, 2019        UPDATING SECURITY CONTROLS OR POLICIES BASED ON ANALYSIS OF COLLECTED OR CREATED METADATA
+
+20190188402     Wang, Ye, et al.                         June 20, 2019        DATA-DRIVEN PRIVACY-PRESERVING COMMUNICATION
+
+20190266201     Barday, Kabir A., et al.                 August 29, 2019      DATA PROCESSING SYSTEMS FOR FULFILLING DATA SUBJECT ACCESS REQUESTS AND RELATED METHODS
+
+20190266350     Barday, Kabir A., et al.                 August 29, 2019      DATA PROCESSING SYSTEMS FOR FULFILLING DATA SUBJECT ACCESS REQUESTS AND RELATED METHODS
+
+20190268343     Barday, Kabir A., et al.                 August 29, 2019      DATA PROCESSING SYSTEMS FOR FULFILLING DATA SUBJECT ACCESS REQUESTS AND RELATED METHODS
+
+20190268344     Barday, Kabir A., et al.                 August 29, 2019      DATA PROCESSING SYSTEMS FOR FULFILLING DATA SUBJECT ACCESS REQUESTS AND RELATED METHODS
+
+20190272492     Elledge, Don, et al.                     September 5, 2019    Trusted Eco-system Management System
+
+20190294818     Barday, Kabir A., et al.                 September 26, 2019   DATA PROCESSING SYSTEMS AND METHODS FOR AUDITING DATA REQUEST COMPLIANCE
+
+20190332802     Barday, Kabir A., et al.                 October 31, 2019     DATA PROCESSING SYSTEMS FOR IDENTIFYING AND MODIFYING PROCESSES THAT ARE SUBJECT TO DATA SUBJECT ACCESS REQUESTS
+
+20190332807     LaFever, Malcolm Gary, et al.            October 31, 2019     SYSTEMS AND METHODS FOR ENFORCING PRIVACY-RESPECTFUL, TRUSTED COMMUNICATIONS
+
+20190333118     Crimmins, Andrew G., et al.              October 31, 2019     COGNITIVE PRODUCT AND SERVICE RATING GENERATION VIA PASSIVE COLLECTION OF USER FEEDBACK
+
+20190362169     LIN, Heng-Yi, et al.                     November 28, 2019    METHOD FOR VERIFYING USER IDENTITY AND AGE
+
+20190362268     Fogarty, David, et al.                   November 28, 2019    SYSTEM AND METHOD FOR SYNTHESIZING DATA
+
+20190378073     LOPEZ, Melvin, et al.                    December 12, 2019    Business-Aware Intelligent Incident and Change Management
+
+20190384934     KIM, Sang Yonn                           December 19, 2019    METHOD AND SYSTEM FOR PROTECTING PERSONAL INFORMATION INFRINGEMENT USING DIVISION OF AUTHENTICATION PROCESS AND BIOMETRIC AUTHENTICATION
+
+20190392170     Barday, Kabir A., et al.                 December 26, 2019    DATA PROCESSING SYSTEMS AND METHODS FOR POPULATING AND MAINTAINING A CENTRALIZED DATABASE OF PERSONAL DATA
+
+20190392171     Barday, Kabir A., et al.                 December 26, 2019    CONSENT RECEIPT MANAGEMENT SYSTEMS AND RELATED METHODS
+
+20200020454     McGarvey, Kevin, et al.                  January 16, 2020     TELE-HEALTH NETWORKING, INTERACTION, AND CARE MATCHING TOOL AND METHODS OF USE
+
+20200074471     Adjaoute, Akli                           March 5, 2020        METHOD FOR DETECTING MERCHANT DATA BREACHES WITH A COMPUTER NETWORK SERVER
+
+20200082270     Gu, Zhongshu, et al.                     March 12, 2020       Verifiable Deep Learning Training Service
+
+20200090197     Rodriguez, Juan C., et al.               March 19, 2020       SYSTEMS AND METHODS FOR PROACTIVELY RESPONDING TO VENDOR SECURITY ASSESSMENTS
+
+20200092179     Chieu, Trieu C., et al.                  March 19, 2020       COMPLIANCE VALIDATION FOR SERVICES BASED ON USER SELECTION
+
+20200110589     Bequet, Henry Gabriel Victor, et al.     April 9, 2020        MANY TASK COMPUTING WITH MESSAGE PASSING INTERFACE
+
+20200137097     Zimmermann, Gil, et al.                  April 30, 2020       SYSTEM AND METHOD FOR SECURING AN ENTERPRISE COMPUTING ENVIRONMENT
+
+20200143797     Manoharan, Hemanth Kumar, et al.         May 7, 2020          AUTOMATED CHAT BOT PROCESSING
+
+20200183655     Barday, Kabir A., et al.                 June 11, 2020        DATA PROCESSING SYSTEMS FOR INTEGRATION OF CONSUMER FEEDBACK WITH DATA SUBJECT ACCESS REQUESTS AND RELATED METHODS
+
+20200186355     DAVIES, Lars                             June 11, 2020        DISTRIBUTED TRANSACTION PROCESSING AND AUTHENTICATION SYSTEM
+
+20200193018     Van Dyke, James                          June 18, 2020        DATA BREACH SCORE AND METHOD
+
+20200193022     Lunsford, Anderson, et al.               June 18, 2020        Breach Response Data Management System and Method
+
+20200210558     Barday, Kabir A., et al.                 July 2, 2020         CONSENT RECEIPT MANAGEMENT SYSTEMS AND RELATED METHODS
+
+20200210620     Haletky, Edward L.                       July 2, 2020         SYSTEM FOR ACTIVE AND PASSIVE MANAGEMENT OF LOCATION-BASED COPY DATA
+
+20200220901     Barday, Kabir A., et al.                 July 9, 2020         DATA PROCESSING SYSTEMS FOR DATA-TRANSFER RISK IDENTIFICATION, CROSS-BORDER VISUALIZATION GENERATION, AND RELATED METHODS
+
+20200226196     Brannon, Jonathan Blake, et al.          July 16, 2020        DATA PROCESSING USER INTERFACE MONITORING SYSTEMS AND RELATED METHODS
+
+20200242719     Lee, Jisoo                               July 30, 2020        SYSTEM AND METHOD OF ALLOCATING COMPUTING RESOURCES BASED ON JURISDICTION
+
+20200252817     Brouillette, Nicholas, et al.            August 6, 2020       VISUAL PRIVACY SYSTEMS FOR ENTERPRISE MOBILITY MANAGEMENT
+
+20200272764     Brannon, Jonathan Blake, et al.          August 27, 2020      DATA PROCESSING SYSTEMS FOR VERIFICATION OF CONSENT AND NOTICE PROCESSING AND RELATED METHODS
+
+20200293679     Handy Bosma, John, et al.                September 17, 2020   Privacy Preserving Data Deletion
+
+20200302089     Barday, Kabir A., et al.                 September 24, 2020   CONSENT RECEIPT MANAGEMENT SYSTEMS AND RELATED METHODS
+
+20200311310     Barday, Kabir A., et al.                 October 1, 2020      CONSENT RECEIPT MANAGEMENT SYSTEMS AND RELATED METHODS
+
+20200344243     Brannon, Jonathan Blake, et al.          October 29, 2020     CONSENT CONVERSION OPTIMIZATION SYSTEMS AND RELATED METHODS
+
+20200356695     Brannon, Jonathan Blake, et al.          November 12, 2020    DATA PROCESSING SYSTEMS FOR VERIFICATION OF CONSENT AND NOTICE PROCESSING AND RELATED METHODS
+
+20200364369     Brannon, Jonathan Blake, et al.          November 19, 2020    DATA SUBJECT ACCESS REQUEST PROCESSING SYSTEMS AND RELATED METHODS
+
+20200372178     Barday, Kabir A., et al.                 November 26, 2020    DATA PROCESSING SYSTEMS AND METHODS FOR POPULATING AND MAINTAINING A CENTRALIZED DATABASE OF PERSONAL DATA
+
+20200410117     Barday, Kabir A., et al.                 December 31, 2020    CONSENT RECEIPT MANAGEMENT SYSTEMS AND RELATED METHODS
+
+20200410131     Barday, Kabir A., et al.                 December 31, 2020    CONSENT RECEIPT MANAGEMENT SYSTEMS AND RELATED METHODS
+
+20200410132     Brannon, Jonathan Blake, et al.          December 31, 2020    DATA PROCESSING SYSTEMS FOR CENTRAL CONSENT REPOSITORY AND RELATED METHODS
+
+20210012341     GARG, Chandan, et al.                    January 14, 2021     METHOD AND SYSTEM FOR BLOCKING AND UNBLOCKING MERCHANTS FOR FUTURE TRANSACTIONS
+
+11074367        Brannon, et al.                          July 27, 2021        Data processing systems for identity validation for consumer rights requests and related methods
+
+5757685         Ohuchi                                   May 26, 1998         Data processing system capable of processing long word data
+
+20110190009     Gerber, JR., Robert B., et al.           August 4, 2011       SYSTEM AND METHOD FOR LOCATION PRIVACY AND LOCATION INFORMATION MANAGEMENT OVER WIRELESS SYSTEMS
+
+20140250537     Siris, Marc                              September 4, 2014    SYSTEMS, METHODS, AND COMPUTER PROGRAM PRODUCTS FOR DATA GOVERNANCE AND LICENSING
+

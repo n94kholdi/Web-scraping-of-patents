@@ -1,0 +1,101 @@
+ID              Name                           Data                      Title                    
+------------------------------------------------------------------------------------------------------------------------------------------------------
+11087260        Clearwater, et al.             August 10, 2021           Data processing systems and methods for customizing privacy training
+
+4536866         Jerome, et al.                 August 20, 1985           Information retrieval system and apparatus
+
+5193162         Bordsen, et al.                March 9, 1993             Cache memory with data compaction for use in the audit trail of a data processing system having record locking capabilities
+
+5276735         Boebert, et al.                January 4, 1994           Data enclave and trusted path system
+
+5329447         Leedom, Jr.                    July 12, 1994             High integrity computer implemented docketing system
+
+5404299         Tsurubayashi, et al.           April 4, 1995             Electronic dictionary system
+
+5535393         Reeve, et al.                  July 9, 1996              System for parallel processing that compiles a filed sequence of instructions within an iteration space
+
+5560005         Hoover, et al.                 September 24, 1996        Methods and systems for object-based relational distributed databases
+
+5668986         Nilsen, et al.                 September 16, 1997        Method and apparatus for handling data storage requests in a distributed data base environment
+
+11070593        Brannon, et al.                July 20, 2021             Data processing systems for data-transfer risk identification, cross-border visualization generation, and related methods
+
+11068618        Brannon, et al.                July 20, 2021             Data processing systems for central consent repository and related methods
+
+5761529         Raji, et al.                   June 2, 1998              Method for storing and retreiving files by generating an array having plurality of sub-arrays each of which include a digit of file identification numbers
+
+11074367        Brannon, et al.                July 27, 2021             Data processing systems for identity validation for consumer rights requests and related methods
+
+5757685         Ohuchi                         May 26, 1998              Data processing system capable of processing long word data
+
+11029198        Rogers, et al.                 June 8, 2021              Alternative approach for UV sensing
+
+3949410         Bassous, et al.                April 6, 1976             Jet nozzle structure for electrohydrodynamic droplet formation and ink jet printing system therewith
+
+4058418         Lindmayer                      November 15, 1977         Fabrication of thin film solar cells utilizing epitaxial deposition onto a liquid surface to obtain lateral growth
+
+4392451         Mickelsen, et al.              July 12, 1983             Apparatus for forming thin-film heterojunction solar cells employing materials selected from the class of I-III-VI.sub.2 chalcopyrite compounds
+
+4471003         Cann                           September 11, 1984        Magnetoplasmadynamic apparatus and process for the separation and deposition of materials
+
+4487162         Cann                           December 11, 1984         Magnetoplasmadynamic apparatus for the separation and deposition of materials
+
+4663828         Hanak                          *
+     May 12, 1987       Process and apparatus for continuous production of lightweight arrays of photovoltaic cells
+
+4715235         Fukui, et al.                  December 29, 1987         Deformation sensitive electroconductive knitted or woven fabric and deformation sensitive electroconductive device comprising the same
+
+11032685        Di Girolamo, et al.            June 8, 2021              Service layer mobility management of applications
+
+20120106431     Wu, Wenfu, et al.              May 3, 2012               OPERATION CONTROL METHOD OF M2M USER EQUIPMENT, SYSTEM AND M2M USER EQUIPMENT
+
+20150033312     Seed, Dale N., et al.          January 29, 2015          End-To-End M2M Service Layer Sessions
+
+20150245161     Pareglio, Barbara, et al.      August 27, 2015           Method and System for Communication Between Machine to Machine M2M Service Provider Networks
+
+20160007137     AHN, Hongbeom, et al.          January 7, 2016           METHOD FOR MODIFYING M2M SERVICE SETTING AND APPARATUS THEREFOR
+
+20160192111     CHOI, Heedong, et al.          June 30, 2016             METHOD FOR DELIVERING NOTIFICATION MESSAGES IN M2M SYSTEM AND DEVICES FOR SAME
+
+20160219125     XIAO, Fangying                 July 28, 2016             METHOD AND APPARATUS FOR IMPLEMENTING SUBSCRIPTION NOTIFICATION
+
+20170353944     KIM, Dongjoo, et al.           December 7, 2017          METHOD FOR BROADCASTING TO UNSPECIFIED ENTITY IN WIRELESS COMMUNICATION SYSTEM AND DEVICE FOR THE SAME
+
+20180014144     CHEN, Zhuo, et al.             January 11, 2018          Message Retargeting In Machine-to-Machine Service Layer Communications
+
+11038925        Brannon, et al.                June 15, 2021             Data processing systems for data-transfer risk identification, cross-border visualization generation, and related methods
+
+11042882        Ledford, et al.                June 22, 2021             Real-time payment system, method, apparatus, and computer program
+
+4201978         Nally                          May 6, 1980               Document processing system
+
+4205780         Burns, et al.                  June 3, 1980              Document processing system and method
+
+4264808         Owens, et al.                  April 28, 1981            Method and apparatus for electronic image processing of documents for accounting purposes
+
+4268715         Atalla                         May 19, 1981              Method and apparatus for securing data transmissions
+
+4270042         Case                           May 26, 1981              Electronic funds transfer system
+
+4321672         Braun, et al.                  March 23, 1982            Financial data processing system
+
+4326258         de la Guardia                  April 20, 1982            Method and apparatus for reducing the gray scale resolution of a digitized image
+
+4404649         Nunley, et al.                 September 13, 1983        Document processing system
+
+11045095        Tao, et al.                    June 29, 2021             Systems and methods for non-contact monitoring of ballistocardiogram, photoplethysmogram, blood pressure and abnormal heart rhythm
+
+10078074        Tsow, et al.                   September 18, 2018        Portable metabolic analyzer system
+
+10078795        Tao, et al.                    September 18, 2018        Systems and methods for non-contact tracking and analysis of physical activity using imaging
+
+10143401        Tao, et al.                    December 4, 2018          Metabolic analyzer       
+
+10413226        Tao, et al.                    September 17, 2019        Noncontact monitoring of blood oxygen saturation using camera
+
+20070160286     Haque, Jamal                   July 12, 2007             Dynamically adjusting and predicting image segmentation threshold
+
+20090147991     Chau, Tom                      June 11, 2009             METHOD, SYSTEM, AND COMPUTER PROGRAM FOR DETECTING AND CHARACTERIZING MOTION
+
+20130310700     Wiard, Richard M., et al.      November 21, 2013         SYSTEMS AND METHODS FOR MONITORING THE CIRCULATORY SYSTEM
+
